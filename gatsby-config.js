@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Sanderfish | Bootstrapper, Developer and Product Designer`,
   },
-  pathPrefix: '/sanderfish-site'
+  pathPrefix: '/sanderfish-site',
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
