@@ -1,0 +1,20 @@
+@import '~tachyons-sass/tachyons.scss';
+@import 'variables';
+
+@mixin borderRadius ($radius: 5px) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  border-radius: $radius;
+}
+
+html {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+body {
+  color: $primary;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
