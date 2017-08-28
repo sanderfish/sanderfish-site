@@ -52,7 +52,7 @@ const IndexPage = () =>
 
     <div className="pv2">
       <h4># Stay updated.</h4>
-      <p><a href="http://sanderfish.us15.list-manage1.com/subscribe?u=623bafe9c5e3900424bab0840&id=f64532673c">Sign up to my email list</a> to be the first to know about my writing and the products I launch.</p>
+      <p><a href="https://sanderfish.us15.list-manage1.com/subscribe?u=623bafe9c5e3900424bab0840&id=f64532673c">Sign up to my email list</a> to be the first to know about my writing and the products I launch.</p>
     </div>
 
     <div className="pv2">
