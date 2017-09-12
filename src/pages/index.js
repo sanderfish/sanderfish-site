@@ -9,14 +9,24 @@ const IndexPage = () =>
 
       <ul>
         <li className="pv2">
-          <a href="http://wordeys.com">Wordeys</a><br />
-          Helping people self-direct their language learning.<br />
-          Ruby on Rails, Vanilla JS, Sass, Heroku
-        </li>
-        <li className="pv2">
           <a href="http://defty.nl">Defty</a><br />
           Connecting creative workshops hosts and participants with each other.<br />
           NodeJS, Express, Vue.js, Sass, DigitalOcean
+        </li>
+        <li className="pv2">
+          <a href="http://bookinglayer.com">Bookinglayer</a><br />
+          Freelance design and development of marketing website (with <a href="http://stay-bold.com">Stay Bold</a>).<br />
+          Jekyll, Markdown, Sass/Foundation
+        </li>
+        <li className="pv2">
+          <a href="http://broaap.com">Broaap</a><br />
+          Freelance design and development (with <a href="http://stay-bold.com">Stay Bold</a>).<br />
+          Meteor, React, Sass/Foundation
+        </li>
+        <li className="pv2">
+          <a href="http://wordeys.com">Wordeys</a><br />
+          Helping people self-direct their language learning.<br />
+          Ruby on Rails, Vanilla JS, Sass, Heroku
         </li>
         <li className="pv2">
           <a href="http://bramsparis.com">Brams Paris</a><br />
@@ -27,11 +37,6 @@ const IndexPage = () =>
           <a href="http://kusjedaisy.nl">Daisy</a><br />
           Freelance design and development (with <a href="http://parlor.nl">Parlor</a>).<br />
           Craft CMS, Twig, Sass/Foundation, jQuery
-        </li>
-        <li className="pv2">
-          <a href="http://broaap.com">Broaap</a><br />
-          Freelance design and development (with <a href="http://stay-bold.com">Stay Bold</a>).<br />
-          Meteor, React, Sass/Foundation
         </li>
         <li className="pv2">
           <a href="http://cribber.nl">Cribber</a><br />
