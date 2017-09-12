@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/sanderfish-site/app-116ab429bb3a4109cd7e.js","eee52f040ffface0b94cc2a44d296db3"],["/sanderfish-site/app-5e060fa9d5173d4118a1.js","3aaa3d7e374c32572e997991c4e0f425"],["/sanderfish-site/app-992cddfa39a4977cdad4.js","2e79564622de4d96406331f5b61320c4"],["/sanderfish-site/commons-a58a6b51a7c0664a3f88.js","cb1a4225207b8f557b18d7c555e4b808"],["/sanderfish-site/index.html","c01378b45416fd5035396c3e35a9617a"],["/sanderfish-site/offline-plugin-app-shell-fallback/index.html","5ed94989596aa18759254201053d2f71"]];
+var precacheConfig = [["/sanderfish-site/app-116ab429bb3a4109cd7e.js","eee52f040ffface0b94cc2a44d296db3"],["/sanderfish-site/app-5e060fa9d5173d4118a1.js","3aaa3d7e374c32572e997991c4e0f425"],["/sanderfish-site/app-992cddfa39a4977cdad4.js","5c061b1b8edc410a0a31f44b6beb413d"],["/sanderfish-site/commons-a58a6b51a7c0664a3f88.js","cb1a4225207b8f557b18d7c555e4b808"],["/sanderfish-site/index.html","91131b4aae6fa56532d02e9df85feb10"],["/sanderfish-site/offline-plugin-app-shell-fallback/index.html","8acb7a44ea02bdf99cba457fa82e423c"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
