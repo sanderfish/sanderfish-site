@@ -75,7 +75,7 @@ const IndexPage = () => (
         </li>
         <li className="pv2">
           <div className="pv1">
-            <a href="http://bramsparis.com">Brams Paris</a>
+            <a href="https://www.bramsparis.com/">Brams Paris</a>
             <br />
           </div>
           <div className="pv1">
