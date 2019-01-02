@@ -51,7 +51,7 @@ const IndexPage = ({ data, location }) => {
           </li>
           <li className="pv2">
             <div className="pv1">
-              <a href="https://essentialcal.co" target="blank">
+              <a href="https://essentialcal.com" target="blank">
                 Essential
               </a>
             </div>
