@@ -69,10 +69,10 @@ const Layout = ({ children }) => (
 
       <Footer>
         <FooterLink>
-          <Link to="">Home</Link>
+          <Link to="/">Home</Link>
         </FooterLink>
         <FooterLink>
-          <Link to="articles">Articles</Link>
+          <Link to="/articles">Articles</Link>
         </FooterLink>
       </Footer>
     </div>

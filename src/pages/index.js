@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
+import { graphql } from 'gatsby';
 
 import Layout from '../components/Layout';
 
@@ -15,7 +16,7 @@ const IndexPage = ({ data, location }) => {
           products.
         </h2>
         <p>
-          I'm a solopreneur and full stack developer/designer. I can help you
+          I'm an entrepreneur and full stack developer/designer. I can help you
           build your MVP, redesign your application or website, add features to
           your existing application or create your new marketing site.
         </p>

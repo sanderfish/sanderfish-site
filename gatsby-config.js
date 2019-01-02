@@ -8,7 +8,7 @@ module.exports = {
       twitter: `fishsander`,
     },
   },
-  pathPrefix: '/sanderfish-site',
+  /* pathPrefix: '/sanderfish-site', */
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
