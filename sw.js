@@ -26,17 +26,17 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-c69c0dc76494f67a2fa6.js"
+    "url": "webpack-runtime-b80fe0fe925357503231.js"
   },
   {
-    "url": "app-25c03765206d2d50ce7a.js"
+    "url": "app-a7698fd06464861b83e5.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-cddce81729089790fc39.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "1439fe431223ff395e494efb80f0145b"
+    "revision": "ff775dd10828491efd8f4301e41d4f1c"
   },
   {
     "url": "component---src-pages-404-js-8d552f0c8876d26d21f5.js"
@@ -70,7 +70,7 @@ const navigationRoute = new workbox.routing.NavigationRoute(({ event }) => {
   return idbKeyval.get(WHITELIST_KEY).then((customWhitelist = []) => {
     // Respond with the offline shell if we match the custom whitelist
     if (customWhitelist.includes(pathname)) {
-      const offlineShell = `/sanderfish-site/offline-plugin-app-shell-fallback/index.html`
+      const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
       const cacheName = workbox.core.cacheNames.precache
 
       return caches.match(offlineShell, { cacheName }).then(cachedResponse => {
@@ -139,7 +139,7 @@ const messageApi = {
 
     pathnames = pathnames.map(({ pathname, includesPrefix }) => {
       if (!includesPrefix) {
-        return `/sanderfish-site${pathname}`
+        return `${pathname}`
       } else {
         return pathname
       }

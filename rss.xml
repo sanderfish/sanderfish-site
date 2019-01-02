@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sanderfish | Bootstrapper, Developer and Product Designer]]></title><description><![CDATA[Sander Visser is a digital nomad, bootstrapper, developer and product designer. He loves to develop and design digital products, web apps and websites.]]></description><link>https://sanderfish.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 02 Jan 2019 16:16:15 GMT</lastBuildDate><item><title><![CDATA[Finding clarity and focus as a maker by using a planning system]]></title><description><![CDATA[I’ve always struggled to concentrate on my tasks. My focus shifted constantly. I had to be in the perfect environment, have one clearly…]]></description><link>https://sanderfish.com/finding-clarity-and-focus-with-a-planning-system/</link><guid isPermaLink="false">https://sanderfish.com/finding-clarity-and-focus-with-a-planning-system/</guid><pubDate>Thu, 04 Oct 2018 12:40:32 GMT</pubDate><content:encoded>&lt;p&gt;I’ve always struggled to concentrate on my tasks. My focus shifted constantly. I had to be in the perfect environment, have one clearly defined task to focus on and force myself not to touch anything distracting. It annoyed me. And every few weeks, it happened again. Sometimes weeks would go by without being productive.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sanderfish | Bootstrapper, Developer and Product Designer]]></title><description><![CDATA[Sander Visser is a digital nomad, bootstrapper, developer and product designer. He loves to develop and design digital products, web apps and websites.]]></description><link>https://sanderfish.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 02 Jan 2019 16:18:23 GMT</lastBuildDate><item><title><![CDATA[Finding clarity and focus as a maker by using a planning system]]></title><description><![CDATA[I’ve always struggled to concentrate on my tasks. My focus shifted constantly. I had to be in the perfect environment, have one clearly…]]></description><link>https://sanderfish.com/finding-clarity-and-focus-with-a-planning-system/</link><guid isPermaLink="false">https://sanderfish.com/finding-clarity-and-focus-with-a-planning-system/</guid><pubDate>Thu, 04 Oct 2018 12:40:32 GMT</pubDate><content:encoded>&lt;p&gt;I’ve always struggled to concentrate on my tasks. My focus shifted constantly. I had to be in the perfect environment, have one clearly defined task to focus on and force myself not to touch anything distracting. It annoyed me. And every few weeks, it happened again. Sometimes weeks would go by without being productive.&lt;/p&gt;
 &lt;p&gt;Many times I searched for, found and tried ways to improve my focus. I tried todo lists, journaling, blocking websites, rewards, getting up early, working late, coffee, no coffee, music, no music, weed, noise canceling headphones, cafes, coworking spaces, working from home. The list goes on and on.&lt;/p&gt;
 &lt;p&gt;These changes all had some effect. Some improved my focus for a day, some for a week, some made it worse (yes, weed), but generally — what worked one day, wouldn’t work the next.&lt;/p&gt;
 &lt;hr&gt;
@@ -23,7 +23,7 @@
 &lt;hr&gt;
 &lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/sanderfish-site/static/09d22fce1d30cc37499217e2e8ab34d0/30631/planning-system-joris.jpeg&quot;
+    href=&quot;/static/09d22fce1d30cc37499217e2e8ab34d0/30631/planning-system-joris.jpeg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -41,13 +41,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Joris showed me what his system looked like for a typical week.&quot;
         title=&quot;&quot;
-        src=&quot;/sanderfish-site/static/09d22fce1d30cc37499217e2e8ab34d0/f8fb9/planning-system-joris.jpeg&quot;
-        srcset=&quot;/sanderfish-site/static/09d22fce1d30cc37499217e2e8ab34d0/e8976/planning-system-joris.jpeg 148w,
-/sanderfish-site/static/09d22fce1d30cc37499217e2e8ab34d0/63df2/planning-system-joris.jpeg 295w,
-/sanderfish-site/static/09d22fce1d30cc37499217e2e8ab34d0/f8fb9/planning-system-joris.jpeg 590w,
-/sanderfish-site/static/09d22fce1d30cc37499217e2e8ab34d0/85e3d/planning-system-joris.jpeg 885w,
-/sanderfish-site/static/09d22fce1d30cc37499217e2e8ab34d0/d1924/planning-system-joris.jpeg 1180w,
-/sanderfish-site/static/09d22fce1d30cc37499217e2e8ab34d0/30631/planning-system-joris.jpeg 1600w&quot;
+        src=&quot;/static/09d22fce1d30cc37499217e2e8ab34d0/f8fb9/planning-system-joris.jpeg&quot;
+        srcset=&quot;/static/09d22fce1d30cc37499217e2e8ab34d0/e8976/planning-system-joris.jpeg 148w,
+/static/09d22fce1d30cc37499217e2e8ab34d0/63df2/planning-system-joris.jpeg 295w,
+/static/09d22fce1d30cc37499217e2e8ab34d0/f8fb9/planning-system-joris.jpeg 590w,
+/static/09d22fce1d30cc37499217e2e8ab34d0/85e3d/planning-system-joris.jpeg 885w,
+/static/09d22fce1d30cc37499217e2e8ab34d0/d1924/planning-system-joris.jpeg 1180w,
+/static/09d22fce1d30cc37499217e2e8ab34d0/30631/planning-system-joris.jpeg 1600w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/span&gt;
@@ -68,7 +68,7 @@
 &lt;p&gt;After I used paper for a while, it was annoying that I always needed to have my notebook with me. I used Google Sheets to create a simple layout and duplicated that every week.&lt;/p&gt;
 &lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/sanderfish-site/static/9ae0aef1c92d8c43ed008d64345b5e03/7ef18/planning-system-sheets.png&quot;
+    href=&quot;/static/9ae0aef1c92d8c43ed008d64345b5e03/7ef18/planning-system-sheets.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -86,13 +86,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Simple spreadsheet setup.&quot;
         title=&quot;&quot;
-        src=&quot;/sanderfish-site/static/9ae0aef1c92d8c43ed008d64345b5e03/fb8a0/planning-system-sheets.png&quot;
-        srcset=&quot;/sanderfish-site/static/9ae0aef1c92d8c43ed008d64345b5e03/1a291/planning-system-sheets.png 148w,
-/sanderfish-site/static/9ae0aef1c92d8c43ed008d64345b5e03/2bc4a/planning-system-sheets.png 295w,
-/sanderfish-site/static/9ae0aef1c92d8c43ed008d64345b5e03/fb8a0/planning-system-sheets.png 590w,
-/sanderfish-site/static/9ae0aef1c92d8c43ed008d64345b5e03/526de/planning-system-sheets.png 885w,
-/sanderfish-site/static/9ae0aef1c92d8c43ed008d64345b5e03/fa2eb/planning-system-sheets.png 1180w,
-/sanderfish-site/static/9ae0aef1c92d8c43ed008d64345b5e03/7ef18/planning-system-sheets.png 1550w&quot;
+        src=&quot;/static/9ae0aef1c92d8c43ed008d64345b5e03/fb8a0/planning-system-sheets.png&quot;
+        srcset=&quot;/static/9ae0aef1c92d8c43ed008d64345b5e03/1a291/planning-system-sheets.png 148w,
+/static/9ae0aef1c92d8c43ed008d64345b5e03/2bc4a/planning-system-sheets.png 295w,
+/static/9ae0aef1c92d8c43ed008d64345b5e03/fb8a0/planning-system-sheets.png 590w,
+/static/9ae0aef1c92d8c43ed008d64345b5e03/526de/planning-system-sheets.png 885w,
+/static/9ae0aef1c92d8c43ed008d64345b5e03/fa2eb/planning-system-sheets.png 1180w,
+/static/9ae0aef1c92d8c43ed008d64345b5e03/7ef18/planning-system-sheets.png 1550w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/span&gt;
@@ -107,7 +107,7 @@
 &lt;p&gt;In the meantime, it turned out, Joris had started turning it into a web app. After he used that for a couple of months, he finally showed it to me (after I had been duplicating and clearing my spreadsheet every week, thanks Joris). We thought it had potential, at least for us, so we worked together to make a new version and we named it &lt;a href=&quot;https://essentialcal.com&quot;&gt;Essential&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/sanderfish-site/static/660198b774db9b3aa8aac60fce83dfc0/75ec9/planning-system-essential.png&quot;
+    href=&quot;/static/660198b774db9b3aa8aac60fce83dfc0/75ec9/planning-system-essential.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -125,14 +125,14 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Planning system Essential.&quot;
         title=&quot;&quot;
-        src=&quot;/sanderfish-site/static/660198b774db9b3aa8aac60fce83dfc0/fb8a0/planning-system-essential.png&quot;
-        srcset=&quot;/sanderfish-site/static/660198b774db9b3aa8aac60fce83dfc0/1a291/planning-system-essential.png 148w,
-/sanderfish-site/static/660198b774db9b3aa8aac60fce83dfc0/2bc4a/planning-system-essential.png 295w,
-/sanderfish-site/static/660198b774db9b3aa8aac60fce83dfc0/fb8a0/planning-system-essential.png 590w,
-/sanderfish-site/static/660198b774db9b3aa8aac60fce83dfc0/526de/planning-system-essential.png 885w,
-/sanderfish-site/static/660198b774db9b3aa8aac60fce83dfc0/fa2eb/planning-system-essential.png 1180w,
-/sanderfish-site/static/660198b774db9b3aa8aac60fce83dfc0/08f6a/planning-system-essential.png 1770w,
-/sanderfish-site/static/660198b774db9b3aa8aac60fce83dfc0/75ec9/planning-system-essential.png 2000w&quot;
+        src=&quot;/static/660198b774db9b3aa8aac60fce83dfc0/fb8a0/planning-system-essential.png&quot;
+        srcset=&quot;/static/660198b774db9b3aa8aac60fce83dfc0/1a291/planning-system-essential.png 148w,
+/static/660198b774db9b3aa8aac60fce83dfc0/2bc4a/planning-system-essential.png 295w,
+/static/660198b774db9b3aa8aac60fce83dfc0/fb8a0/planning-system-essential.png 590w,
+/static/660198b774db9b3aa8aac60fce83dfc0/526de/planning-system-essential.png 885w,
+/static/660198b774db9b3aa8aac60fce83dfc0/fa2eb/planning-system-essential.png 1180w,
+/static/660198b774db9b3aa8aac60fce83dfc0/08f6a/planning-system-essential.png 1770w,
+/static/660198b774db9b3aa8aac60fce83dfc0/75ec9/planning-system-essential.png 2000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/span&gt;
