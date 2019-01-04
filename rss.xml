@@ -1,4 +1,281 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sanderfish | Bootstrapper, Developer and Product Designer]]></title><description><![CDATA[Sander Visser is a digital nomad, bootstrapper, developer and product designer. He loves to develop and design digital products, web apps and websites.]]></description><link>https://sanderfish.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 02 Jan 2019 18:36:37 GMT</lastBuildDate><item><title><![CDATA[Finding clarity and focus as a maker by using a planning system]]></title><description><![CDATA[I’ve always struggled to concentrate on my tasks. My focus shifted constantly. I had to be in the perfect environment, have one clearly…]]></description><link>https://sanderfish.com/finding-clarity-and-focus-with-a-planning-system/</link><guid isPermaLink="false">https://sanderfish.com/finding-clarity-and-focus-with-a-planning-system/</guid><pubDate>Thu, 04 Oct 2018 12:40:32 GMT</pubDate><content:encoded>&lt;p&gt;I’ve always struggled to concentrate on my tasks. My focus shifted constantly. I had to be in the perfect environment, have one clearly defined task to focus on and force myself not to touch anything distracting. It annoyed me. And every few weeks, it happened again. Sometimes weeks would go by without being productive.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sanderfish | Bootstrapper, Developer and Product Designer]]></title><description><![CDATA[Sander Visser is a digital nomad, bootstrapper, developer and product designer. He loves to develop and design digital products, web apps and websites.]]></description><link>https://sanderfish.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 04 Jan 2019 20:51:29 GMT</lastBuildDate><item><title><![CDATA[Create a map of your sales or customers with Mapbox]]></title><description><![CDATA[When you sell digital or physical products online, people all over the world (or country) buy your products. I thought it would be fun to…]]></description><link>https://sanderfish.com/create-a-map-of-your-sales-or-customers-with-mapbox/</link><guid isPermaLink="false">https://sanderfish.com/create-a-map-of-your-sales-or-customers-with-mapbox/</guid><pubDate>Fri, 04 Jan 2019 10:17:00 GMT</pubDate><content:encoded>&lt;p&gt;When you sell digital or physical products online, people all over the world (or country) buy your products. I thought it would be fun to see where the people that buy my products are from. Those type of maps work well as social proof – showing potential customers that you are a trusted business and have served customers globally.&lt;/p&gt;
+&lt;p&gt;It gives visitors a real feel of how many customers you have and where they are located. You could possibly add the order amount or the product bought as well, to give a better indication of which products are possible.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a674a3fca4004ce74c9bb5df78a02e56/cc542/customer-maps.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 72.99679487179488%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAADxElEQVQ4yy1TyXIiRxDlu3z20RHTE+Ev8NG/4IMPvvgwipjwXCwrJDYtIJaWkAAFIIFEA73R3UBDs7TEIgnESAhGY2trqp6rNXPIyKiszJcvX1V6zJGKUm+OfOcFR81HpC2CkE6wVV0ifDZDWjaR08oQRwVmpzDHGuRBEVK/gNp1Ea2xBG1gQ++PIXTn8OhjAXlbQ7nFrNvEhkzgVwCfCuTDRxBLWVQHCnoTEd2JAnsioz4UoF4UGUgR6uAUUeMBEf0V6yKFZ1gIopXcgBz8hEjpEgEN8DNQFzBTbSOrqsibJpTzNsxzA+2egOm0hulNFZ1rCblWHSHtET5GIqgywN5ZAlV+B8njJryqC7aEV6bYVl/QGfZY0QSiPUWnp2LQK8Pui7i8EtEfl6F2VQTErwxoiQCrDbiAMfMJe41bhIRbbEnPb8w2WLdk7RaTqxLubzXc3TUwGNWRY3nZ9mdkmzaOZAlx+ZrJQ+H/DuZ6j4+x8TM7rHeQMU8Q1acIsqRN5QkR9RJZvQLNPEDFMlmcwCst3wrjBRu7yhU2pX/hZ0QCiqs9gSegEsrmp4nakJa6aVof5ul+7Z56WWxdduPX1GinaNq4oIwNDTBz/aa2pGHjmR7rF5Q3JpTpThlL6glW8dZxu0rQuijhtNNFwI25bNzRGwvUejJi+vztK7laueJvMF8q6Lhlr24rWexkb+A34DKEwwqdqP7VqZ63HNbdYYwdJoXDGr1uaXDC2qM7xSs7f7//lhORvzgxVpfN15xA+YlhLBxPUFpwAXnO5ZpjTujfcVt1cCH1kUvU/uPWTufvVzKzn9joP/plvPdVKLetOtxRx81ZcusquNUyuH8a4NYlcOHKlPPs5NYtpZuzmleaFRby1m55z9JHKat9GWklxbXRn94Pu6nq6w+55rwvni9ald6LdXHzZKXNpbVvPFjlzsI6v760JPuzlW89WZ7NXABJeQ+ZjoG/+CzW+E0MZjya4xDiCo/fvb7GgU5+royeobVKqJg2Mj0gljBRNksYPLRhL1To4yGK3SU8ISFFUkaS8HqZiN0s0SyeFIwU4YtR51PyCL/5tuS48vJuvw6kDgvLWCRLdqsgQkUjuiES09aJZmskKn0hMQ3Es3p8glAxBV7cR0IXcNbgkTAq2BZOlquJCH5d+VtJ6PRdqgnwBkiyPqSp+g373DNU2hp4tlG8MsOhdo89nW3Kyt4BIpUMDvQiC4g4YGD7NQlh6XT5IRrHL398VHgN3wAZg0xtQtP1GWKKg4Q2Q1xzt+oZx3IHEWGO/wFKh+I8HR8T3gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Customer maps&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a674a3fca4004ce74c9bb5df78a02e56/fb8a0/customer-maps.png&quot;
+        srcset=&quot;/static/a674a3fca4004ce74c9bb5df78a02e56/1a291/customer-maps.png 148w,
+/static/a674a3fca4004ce74c9bb5df78a02e56/2bc4a/customer-maps.png 295w,
+/static/a674a3fca4004ce74c9bb5df78a02e56/fb8a0/customer-maps.png 590w,
+/static/a674a3fca4004ce74c9bb5df78a02e56/526de/customer-maps.png 885w,
+/static/a674a3fca4004ce74c9bb5df78a02e56/fa2eb/customer-maps.png 1180w,
+/static/a674a3fca4004ce74c9bb5df78a02e56/cc542/customer-maps.png 1248w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Customer maps from &lt;a href=&quot;https://www.databuzz.com.au/mapping-our-customers/&quot; target=&quot;blank&quot;&gt;Databuzz&lt;/a&gt;, &lt;a href=&quot;https://www.revolvecamera.com/blogs/news/7070364-to-every-corner-of-the-globe&quot; target=&quot;blank&quot;&gt;Revolve&lt;/a&gt; and &lt;a href=&quot;https://sofatray.eu/blogs/news/what-to-expect&quot; target=&quot;blank&quot;&gt;Sofatray&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I’m going to make this map for my SaaS product &lt;a href=&quot;https://checkoutpage.co&quot;&gt;Checkout Page&lt;/a&gt;. My customers are people who “connect” their Stripe account to my service. I have exported their data and turned it into a CSV file. The starting point of this tutorial will be you getting your customer or sales data as a CSV file.&lt;/p&gt;
+&lt;br /&gt;
+&lt;hr&gt;
+&lt;p&gt;If you think this is too much work — I’m building a tool that turns your data into a pretty map easily. You can leave your email here for an invite to the beta. If you want your map now, you can &lt;a href=&quot;https://checkoutpage.co/checkout/sanderfish/customer-data-map&quot; target=&quot;blank&quot;&gt;pay me $20&lt;/a&gt;, send me your address data and I will do it manually using an early version of my tool.&lt;/p&gt;
+&lt;div id=&quot;mc_embed_signup&quot;&gt;
+  &lt;form action=&quot;https://sanderfish.us15.list-manage.com/subscribe/post?u=623bafe9c5e3900424bab0840&amp;amp;id=67448ab113&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form&quot; class=&quot;validate&quot; target=&quot;_blank&quot; novalidate&gt;
+    &lt;div id=&quot;mc_embed_signup_scroll&quot;&gt;
+      &lt;div class=&quot;mc-field-group&quot;&gt;
+        &lt;input type=&quot;email&quot; value=&quot;&quot; name=&quot;EMAIL&quot; class=&quot;required email&quot; id=&quot;mce-EMAIL&quot; placeholder=&quot;Email address&quot; style=&quot;margin: 0.5em 0; padding: 0.5em 1em;&quot;&gt;
+        &lt;input type=&quot;submit&quot; value=&quot;Subscribe&quot; name=&quot;subscribe&quot; id=&quot;mc-embedded-subscribe&quot; class=&quot;button&quot; style=&quot;padding: 0.55em; background: black; color: white; border: none;&quot;&gt;
+      &lt;/div&gt;
+      &lt;div id=&quot;mce-responses&quot; class=&quot;clear&quot;&gt;
+        &lt;div class=&quot;response&quot; id=&quot;mce-error-response&quot; style=&quot;display:none&quot;&gt;&lt;/div&gt;
+        &lt;div class=&quot;response&quot; id=&quot;mce-success-response&quot; style=&quot;display:none&quot;&gt;&lt;/div&gt;
+      &lt;/div&gt;    &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+      &lt;div style=&quot;position: absolute; left: -5000px;&quot; aria-hidden=&quot;true&quot;&gt;&lt;input type=&quot;text&quot; name=&quot;b_623bafe9c5e3900424bab0840_67448ab113&quot; tabindex=&quot;-1&quot; value=&quot;&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/form&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;1. Get your customer/sales data as a CSV file&lt;/h2&gt;
+&lt;p&gt;Most e-commerce platforms offer ways to export your sales or customer data. Often this export will be in the CSV format, which you can open in Google Sheets, Numbers (Mac OS) or Microsoft Excel. Here are some links that should help you to get your initial export for a couple of platforms:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Shopify Orders &lt;a href=&quot;https://help.shopify.com/en/manual/orders/export-orders&quot;&gt;https://help.shopify.com/en/manual/orders/export-orders&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Shopify Customers &lt;a href=&quot;https://help.shopify.com/en/manual/customers/import-export-customers&quot;&gt;https://help.shopify.com/en/manual/customers/import-export-customers&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Etsy Orders &lt;a href=&quot;https://help.etsy.com/hc/en-gb/articles/360000343328-Downloading-a-Spreadsheet-of-Your-Sold-Transactions&quot;&gt;https://help.etsy.com/hc/en-gb/articles/360000343328-Downloading-a-Spreadsheet-of-Your-Sold-Transactions&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stripe - Stripe payments and customers exports don’t include Billing or Shipping addresses. It is however possible to get these via the API as JSON as explained here &lt;a href=&quot;https://stripe.com/docs/api/charges/list&quot;&gt;https://stripe.com/docs/api/charges/list&lt;/a&gt;. I use the following code to save my customers to a json file, which I then convert to a CSV file via &lt;a href=&quot;https://konklone.io/json/&quot;&gt;https://konklone.io/json/&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;curl https://api.stripe.com/v1/customers?limit=9999 \
+-u [YOUR_API_KEY]: \
+-G \
+-o data.json&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WooCommerce &lt;a href=&quot;https://docs.woocommerce.com/document/ordercustomer-csv-export/&quot;&gt;https://docs.woocommerce.com/document/ordercustomer-csv-export/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SquareSpace &lt;a href=&quot;https://support.squarespace.com/hc/en-us/articles/206540677-Exporting-orders&quot;&gt;https://support.squarespace.com/hc/en-us/articles/206540677-Exporting-orders&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wix &lt;a href=&quot;https://support.wix.com/en/article/exporting-orders-in-wix-stores&quot;&gt;https://support.wix.com/en/article/exporting-orders-in-wix-stores&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BigCommerce &lt;a href=&quot;https://support.bigcommerce.com/s/article/Importing-Exporting-Orders&quot;&gt;https://support.bigcommerce.com/s/article/Importing-Exporting-Orders&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you use a different ecommerce platform, simply Google ’[name of your ecommerce platform] export orders’ to find out how you can export your data.&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;2. Get coordinates from your addresses&lt;/h2&gt;
+&lt;p&gt;To put the addresses of your orders or customers on a map, they need to be converted to coordinates. The most accurate way to do this is by using the Google Maps API, but I didn’t want to code. I found &lt;a href=&quot;https://geocode.localfocus.nl/&quot;&gt;a geocoding service&lt;/a&gt; that geocodes address data and returns it in CSV format. It sometimes returns a lot of options when using the ‘worldwide’ setting, meaning you will have to check which address is the correct one.&lt;/p&gt;
+&lt;p&gt;Open up the CSV file you exported in step 1 in a spreadsheet editor (I use Google Sheets). To improve the accuracy of the geocoding tool it’s best to organise your data in readable addresses. I aligned my columns like this:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Address&lt;/th&gt;
+&lt;th&gt;Postcode&lt;/th&gt;
+&lt;th&gt;City&lt;/th&gt;
+&lt;th&gt;Country&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;…&lt;/td&gt;
+&lt;td&gt;…&lt;/td&gt;
+&lt;td&gt;…&lt;/td&gt;
+&lt;td&gt;…&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;…&lt;/td&gt;
+&lt;td&gt;…&lt;/td&gt;
+&lt;td&gt;…&lt;/td&gt;
+&lt;td&gt;…&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;This allowed me to copy them into the geocoder easily and is also helpful to paste the results back in.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f07120316ecf748d951c9b92b2a194a6/3c2f0/geocoding-addresses.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 69.16488222698072%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB1UlEQVQ4y41S227UMBDtxyGhChB9QYgXfgZxlxBIfAxqqSjiG5AQ4qUtm+xunDh2YudiZ4aZ2Wy6m1KopZMZz4xP5naAdABgwvbs6pNtJ/aab7Qd8KfvOiy1htVyCcliAVmWiVyvVnBxfg5KKViv17BMU7YhI00STBYJpmmCHb3fkgphiAP6poPat1BoA1XtSW/AWAeWdNe04qtdw6DYlu1INkKzl7EQxmEA63ss6w6N61FXregslWnI1gk2tk5iqyaIv6iavZYJ4TAMWFkDpS6ApTWlSIarK6grC7W14s9VhkplFGMwhkB1DhhjnDARmrKEjPpU5Dk9UtJPvq+oj0VRgHMOQgjQ9T31rGd9k9VsOFtCysYKCZPpIpcByBA2pJSVQmutxM6nOy8ZOEPnaiIqwBgu2YheUtZaa+QMM/oR3733I8/V+lwfSowwjOmzbxN8tXfjCt6Y1V+GEuePYIZbn3EPI+bWQ2Y8KLMveS1CiDK43WneBCH8fqnxzrNP+OD1Z7z7/BjvvTzBwxfHeP/Vidh/JiWO+/rPcqeSf/zWePT2FJ98+IqP3n3Bpx+/4eP3Z3J/+OYUfy2NEA4AtyuZmZs+omsD+i5gPUq+t2Tfneb/8AeoEDNUkBilEwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Geocoding addresses with https://geocode.localfocus.nl&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f07120316ecf748d951c9b92b2a194a6/fb8a0/geocoding-addresses.png&quot;
+        srcset=&quot;/static/f07120316ecf748d951c9b92b2a194a6/1a291/geocoding-addresses.png 148w,
+/static/f07120316ecf748d951c9b92b2a194a6/2bc4a/geocoding-addresses.png 295w,
+/static/f07120316ecf748d951c9b92b2a194a6/fb8a0/geocoding-addresses.png 590w,
+/static/f07120316ecf748d951c9b92b2a194a6/526de/geocoding-addresses.png 885w,
+/static/f07120316ecf748d951c9b92b2a194a6/3c2f0/geocoding-addresses.png 934w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Once geocoded, you scroll down to the results and copy them. Go back to the CSV file and add two columns to the right of the &lt;code class=&quot;language-text&quot;&gt;country&lt;/code&gt; column: &lt;code class=&quot;language-text&quot;&gt;latitude&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;longitude&lt;/code&gt;. To prevent overwriting the original data, I created a new tab/spreadsheet in Google Sheets, where I pasted the results. I then selected all the &lt;code class=&quot;language-text&quot;&gt;latitude&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;longitude&lt;/code&gt; items and copied them to my clipboard. I then went back to the customer data spreadsheets and pasted the coordinate date in the &lt;code class=&quot;language-text&quot;&gt;latitude&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;longitude&lt;/code&gt; columns.&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;3. Export to CSV&lt;/h2&gt;
+&lt;p&gt;You now want to export your data to a CSV file. Mapbox has some restrictions on what it can read. If you’re running into issues, this document might help: &lt;a href=&quot;https://www.mapbox.com/help/troubleshoot-csv/&quot;&gt;https://www.mapbox.com/help/troubleshoot-csv/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A few gotchas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Some spreadsheet editors export all empty rows and unnamed columns. It can be worth removing the unused rows at the bottom and right of your data.&lt;/li&gt;
+&lt;li&gt;Make sure your exported files contains Comma Separated Values and now Semicolon Separated Values. Mapbox only accepts the former.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;4. Upload dataset to Mapbox&lt;/h2&gt;
+&lt;p&gt;We’ll use Mapbox to create the map. Mapbox offers some really nice map styles and you’re able to customise them as well. If you don’t have a Mapbox account yet, create one here &lt;a href=&quot;https://www.mapbox.com/signup/&quot;&gt;https://www.mapbox.com/signup/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To be able to map your data on a map in Mapbox, you need to add it as a dataset. Let’s go to &lt;a href=&quot;https://www.mapbox.com/studio/datasets/&quot;&gt;Datasets&lt;/a&gt; in the studio dashboard to add it. Press the &lt;code class=&quot;language-text&quot;&gt;New dataset&lt;/code&gt; button, click the &lt;code class=&quot;language-text&quot;&gt;upload&lt;/code&gt; tab and upload your CSV file. Press confirm, give your dataset a name, click &lt;code class=&quot;language-text&quot;&gt;Create&lt;/code&gt; and click &lt;code class=&quot;language-text&quot;&gt;Start editing&lt;/code&gt;. You should be able to see your datapoints on a map now.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d7a0ee4aa00a067c60759d1995ac4398/275c2/mapbox-dataset-customers.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 61.09375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAACsklEQVQoz12S208TQRTG92/Sd3mAtiSFcKfbAi33lm67QCm0myYafJL4IkZAEKS0NJEEEx9QH+BJffFBEwkmXIwWexG5tJQtWDrbPZ4zQqNu8mXOzM75zTnfjLDzebPy6OT4eS6Xj57m1OXkwXFsP3UY+54+4kqgUgcnsdTPDB+TP07+zFHpw2zs4Og0tvctGdna3Xvx8dNmpfD+w5bvWGWQPDwD9bwAS5FlWFgMw+zcPDyamoGZx3OoWZhGLYYjEF6K4p4oH5/ML+CeaXjz9h1s76vwcOqpX/jydV+6uCxB7rxQUNU86+/vZ6JoYVZRZBaLhdntdtbW1oayMZfTyRw4J1mtVlZbW8sqKm6xZysrv1gJ4N7Efa8Qj8c9OgCo+Qstk8nqHo8HEARNTU2AIOjp6YGBgQEYHBwEr9cL7e3t/F9DQwM0NzeD0WjAaiNFRMDk5ANZ2N7Z9eTUC8jmzrRMNquPjY3xZKyAJ4miCHSIz+cDp9PJgbTW0tLChVXC+Pjd4stXrylPFhKJhIfopVJJU1VVDwQCHIitgw0rdEsSh9Eatg+dnZ18JHBrayvYbDaQJKnoGxmBjo4OWUin0xyIn5bP53W/388rum6xu7sb+vr6eEwwqsrhcIAsy+ByubiGhoaKwWAQurq6ZCGVSv0DHB0d5ckExI28GvKM1oaHh7kV5CvFJPIXDyhS3v9AdgXUEcaFQL23t1fHCnVsW0eAjgC6uPJ/t9ut4wFFsoUDsWXpCniJQIYta1iNhglcCCjH2KaGEK7rNYrxoAJdJlbqpQp98NcXCoX4JZCXJIqv5yNoPMVkBYlsIS/Jc8pDj/3C6urqjfX19dsbGxuBtbW1IN6UUl9fr+CTURobGxV8FkpdXV05NpvNislkUoxGI5fBYAhWVVUFampq7lRXV9/8DfvLYg5mcTMqAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Mapbox customers dataset&quot;
+        title=&quot;&quot;
+        src=&quot;/static/d7a0ee4aa00a067c60759d1995ac4398/fb8a0/mapbox-dataset-customers.png&quot;
+        srcset=&quot;/static/d7a0ee4aa00a067c60759d1995ac4398/1a291/mapbox-dataset-customers.png 148w,
+/static/d7a0ee4aa00a067c60759d1995ac4398/2bc4a/mapbox-dataset-customers.png 295w,
+/static/d7a0ee4aa00a067c60759d1995ac4398/fb8a0/mapbox-dataset-customers.png 590w,
+/static/d7a0ee4aa00a067c60759d1995ac4398/526de/mapbox-dataset-customers.png 885w,
+/static/d7a0ee4aa00a067c60759d1995ac4398/fa2eb/mapbox-dataset-customers.png 1180w,
+/static/d7a0ee4aa00a067c60759d1995ac4398/275c2/mapbox-dataset-customers.png 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;5. Convert data to a Tileset&lt;/h2&gt;
+&lt;p&gt;To use the Dataset in the Styles editor, it needs to be converted to a Tileset. Go to &lt;a href=&quot;https://www.mapbox.com/studio/tilesets/&quot;&gt;Tilesets&lt;/a&gt; and click &lt;code class=&quot;language-text&quot;&gt;New tileset&lt;/code&gt;. Press the &lt;code class=&quot;language-text&quot;&gt;Create from dataset&lt;/code&gt; tab, select the dataset you just created in step 4 and export it to a tileset.&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;6. Add your data to a map&lt;/h2&gt;
+&lt;p&gt;This is the fun part! We can finally design and create the map. Go to &lt;a href=&quot;https://www.mapbox.com/studio/&quot;&gt;Styles&lt;/a&gt; and create a new Style. You can start with the Basic style, use a template or upload a style yourself. I chose Light as it matches the design of &lt;a href=&quot;checkoutpage.co&quot;&gt;checkoutpage.co&lt;/a&gt;, where I will use the map.&lt;/p&gt;
+&lt;p&gt;Now press the &lt;code class=&quot;language-text&quot;&gt;Add layer&lt;/code&gt; button and add your dataset to the list of active sources. You should now see your data appear on the map! You can click the Type tab to change the looks of your data. This also allows you to use a value from the dataset you’ve uploaded, such as the total order amount. Once you’ve added your layer you can select it and change the way it looks, the positioning, et cetera. I’m going for the icon of a bag and because I don’t have so many items mapped out, I’ll make the icon a bit larger.&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;7. Use your map&lt;/h2&gt;
+&lt;p&gt;I simply wanted an image, so I’m making a screenshot from the map. If you want to print the map or some reason, there’s a print option in the top right corner. This is however &lt;a href=&quot;https://www.mapbox.com/help/how-static-maps-work/&quot;&gt;limited to 5 prints&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f5bc769bae110a36afd389790a4ec7ff/275c2/mapbox-map-result.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 76.015625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAACGklEQVQ4y21T2ZLaQAyc//+opLY2AS+3DcbHcngx2NjYXEmW5EnpVtnLkOxDl+ZSS2ppTM+byovrCS3hNGtn4sokCKS9/wytj81h7MMuSOL1WsrqIG+7rVx/XHRP8v50pm9o7b3CvXM8EE7mgaR5poS32y/58/tdFkmi0eevr9LHm+HM1z2zH/lzJbc5DC+/j8b6gNmsNhuZxbHsy0Ju7z8lWC41c61g7CoJSZM0lTTbydD39awznii5iVdredtuFTlI8mIv4WolCfaX61nGeEzCCGchyGmz/V6u14tcLmep61oOjUTBYimGkepjLefzSbHGnpnS2Ysi6OMp6QYB6EwSkh3hczod1aeqKynKUuaLhRgVGU5pluHxCdFz2ReFeGGEEidaagj9MmjLTBi8BgHJWlJK1G+aaqgfHclOwoIlY01tvw1HSrhEYxZrSpMikwJElb4lGaUaIKmPsbG7RKcA2bQjRLC7VziXh1JyZM/St2gGiXd5LoPZnYzW2INJsGPLBMRNli66n6DzFcolITtMjIBpEKrG9pCbf6edSNGxM8qhDBwHnlFDEre/qA0esXlheC+Ziw50bA84a3y0Q5PYMGpMAsrhR7FmRCkYyAURm8RGPmjYZkFwH2PWGL3bDKtj3f33l2EH/JLN2gyoCZxpW3jIxN5/hv7U1woU1rn52nXkAZ2uPDkvii9Y22jvaJ97PaCvVs8a/7+WpR55YexuuAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Mapbox customer map result&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f5bc769bae110a36afd389790a4ec7ff/fb8a0/mapbox-map-result.png&quot;
+        srcset=&quot;/static/f5bc769bae110a36afd389790a4ec7ff/1a291/mapbox-map-result.png 148w,
+/static/f5bc769bae110a36afd389790a4ec7ff/2bc4a/mapbox-map-result.png 295w,
+/static/f5bc769bae110a36afd389790a4ec7ff/fb8a0/mapbox-map-result.png 590w,
+/static/f5bc769bae110a36afd389790a4ec7ff/526de/mapbox-map-result.png 885w,
+/static/f5bc769bae110a36afd389790a4ec7ff/fa2eb/mapbox-map-result.png 1180w,
+/static/f5bc769bae110a36afd389790a4ec7ff/275c2/mapbox-map-result.png 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can also embed your map interactively on your website. To do this, click &lt;code class=&quot;language-text&quot;&gt;Share&lt;/code&gt; and then &lt;code class=&quot;language-text&quot;&gt;Use&lt;/code&gt;. This will show some code you can copy and paste into your website to embed the map itself.&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;No time to do all this?&lt;/h2&gt;
+&lt;p&gt;This process takes quite some time, which is annoying. Especially if you want to make a new map next month, or next year. I’m working on a tool that automates most of the process. It’s working, but I haven’t built the interface yet. Want to hear more? Leave your email below. If you want your map &lt;strong&gt;now&lt;/strong&gt;, you can &lt;a href=&quot;https://checkoutpage.co/checkout/sanderfish/customer-data-map&quot; target=&quot;blank&quot;&gt;pay me $20&lt;/a&gt;, send your raw data and I’ll turn it into a map for you, using the tool I’ve built.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div id=&quot;mc_embed_signup&quot;&gt;
+  &lt;form action=&quot;https://sanderfish.us15.list-manage.com/subscribe/post?u=623bafe9c5e3900424bab0840&amp;amp;id=67448ab113&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form&quot; class=&quot;validate&quot; target=&quot;_blank&quot; novalidate&gt;
+    &lt;div id=&quot;mc_embed_signup_scroll&quot;&gt;
+      &lt;div class=&quot;mc-field-group&quot;&gt;
+        &lt;input type=&quot;email&quot; value=&quot;&quot; name=&quot;EMAIL&quot; class=&quot;required email&quot; id=&quot;mce-EMAIL&quot; placeholder=&quot;Email address&quot; style=&quot;margin: 0.5em 0; padding: 0.5em 1em;&quot;&gt;
+        &lt;input type=&quot;submit&quot; value=&quot;Subscribe&quot; name=&quot;subscribe&quot; id=&quot;mc-embedded-subscribe&quot; class=&quot;button&quot; style=&quot;padding: 0.55em; background: black; color: white; border: none;&quot;&gt;
+      &lt;/div&gt;
+      &lt;div id=&quot;mce-responses&quot; class=&quot;clear&quot;&gt;
+        &lt;div class=&quot;response&quot; id=&quot;mce-error-response&quot; style=&quot;display:none&quot;&gt;&lt;/div&gt;
+        &lt;div class=&quot;response&quot; id=&quot;mce-success-response&quot; style=&quot;display:none&quot;&gt;&lt;/div&gt;
+      &lt;/div&gt;    &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+      &lt;div style=&quot;position: absolute; left: -5000px;&quot; aria-hidden=&quot;true&quot;&gt;&lt;input type=&quot;text&quot; name=&quot;b_623bafe9c5e3900424bab0840_67448ab113&quot; tabindex=&quot;-1&quot; value=&quot;&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/form&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;!-- 
+  todo:
+
+  reduce image size
+  add link to sign up form /payment at beginning
+  deploy
+  share in /r/Entrepreneur
+  share on hackernews
+  post on Medium (import)
+
+--&gt;</content:encoded></item><item><title><![CDATA[Finding clarity and focus as a maker by using a planning system]]></title><description><![CDATA[I’ve always struggled to concentrate on my tasks. My focus shifted constantly. I had to be in the perfect environment, have one clearly…]]></description><link>https://sanderfish.com/finding-clarity-and-focus-with-a-planning-system/</link><guid isPermaLink="false">https://sanderfish.com/finding-clarity-and-focus-with-a-planning-system/</guid><pubDate>Thu, 04 Oct 2018 12:40:32 GMT</pubDate><content:encoded>&lt;p&gt;I’ve always struggled to concentrate on my tasks. My focus shifted constantly. I had to be in the perfect environment, have one clearly defined task to focus on and force myself not to touch anything distracting. It annoyed me. And every few weeks, it happened again. Sometimes weeks would go by without being productive.&lt;/p&gt;
 &lt;p&gt;Many times I searched for, found and tried ways to improve my focus. I tried todo lists, journaling, blocking websites, rewards, getting up early, working late, coffee, no coffee, music, no music, weed, noise canceling headphones, cafes, coworking spaces, working from home. The list goes on and on.&lt;/p&gt;
 &lt;p&gt;These changes all had some effect. Some improved my focus for a day, some for a week, some made it worse (yes, weed), but generally — what worked one day, wouldn’t work the next.&lt;/p&gt;
 &lt;hr&gt;
