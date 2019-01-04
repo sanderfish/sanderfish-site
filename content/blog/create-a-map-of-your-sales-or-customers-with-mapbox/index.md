@@ -3,14 +3,14 @@ title: Create a map of your sales or customers with Mapbox
 date: '2019-01-04T10:17:00.000Z'
 ---
 
-When you sell digital or physical products online, people all over the world (or country) buy your products. I thought it would be fun to see where the people that buy my products are from. Those type of maps work well as social proof – showing potential customers that you are a trusted business and have served customers globally.
+When you sell digital or physical products online, people all over the world (or country) buy your products. I thought it would be fun to see where the people that buy my products are from. Those type of maps are typically used for social proof as they show potential customers that you are a trusted business and have served customers globally.
 
-It gives visitors a real feel of how many customers you have and where they are located. You could possibly add the order amount or the product bought as well, to give a better indication of which products are possible.
+It gives potential customers a feel of how many customers you have and where they are located. You could possibly add the order amount or the product bought as well, to give a better indication of which products are popular.
 
 ![Customer maps](./customer-maps.png)
 > > > Customer maps from <a href="https://www.databuzz.com.au/mapping-our-customers/" target="blank">Databuzz</a>, <a href="https://www.revolvecamera.com/blogs/news/7070364-to-every-corner-of-the-globe" target="blank">Revolve</a> and <a href="https://sofatray.eu/blogs/news/what-to-expect" target="blank">Sofatray</a>.
 
-I'm going to make this map for my SaaS product [Checkout Page](https://checkoutpage.co). My customers are people who "connect" their Stripe account to my service. I have exported their data and turned it into a CSV file. The starting point of this tutorial will be you getting your customer or sales data as a CSV file.
+I'm going to make this map for my SaaS product [Checkout Page](https://checkoutpage.co). My customers are people who "connect" their [Stripe](https://stripe.com) account to my service. I have exported their data and turned it into a CSV file. The starting point of this tutorial will be you getting your customer or sales data as a CSV file.
 
 <br />
 
@@ -41,7 +41,7 @@ If you think this is too much work — I'm building a tool that turns your data 
 
 ## 1. Get your customer/sales data as a CSV file
 
-Most e-commerce platforms offer ways to export your sales or customer data. Often this export will be in the CSV format, which you can open in Google Sheets, Numbers (Mac OS) or Microsoft Excel. Here are some links that should help you to get your initial export for a couple of platforms:
+Most e-commerce platforms offer a way to export your sales or customer data. Often this export will be in the CSV format, which you can open in Google Sheets, Numbers (Mac OS) or Microsoft Excel. Here are some links that should help you to get your initial export for a couple of platforms:
 
 - Shopify Orders [https://help.shopify.com/en/manual/orders/export-orders](https://help.shopify.com/en/manual/orders/export-orders)
 - Shopify Customers [https://help.shopify.com/en/manual/customers/import-export-customers](https://help.shopify.com/en/manual/customers/import-export-customers)
@@ -67,7 +67,7 @@ If you use a different ecommerce platform, simply Google '[name of your ecommerc
 
 ## 2. Get coordinates from your addresses
 
-To put the addresses of your orders or customers on a map, they need to be converted to coordinates. The most accurate way to do this is by using the Google Maps API, but I didn't want to code. I found [a geocoding service](https://geocode.localfocus.nl/) that geocodes address data and returns it in CSV format. It sometimes returns a lot of options when using the 'worldwide' setting, meaning you will have to check which address is the correct one.
+To put the addresses of your orders or customers on a map, they need to be converted to coordinates. This process is called geocoding. The most accurate way to do this is by using the Google Maps API, but I didn't want to code. I found [a geocoding service](https://geocode.localfocus.nl/) that geocodes address data and returns it in CSV format.
 
 Open up the CSV file you exported in step 1 in a spreadsheet editor (I use Google Sheets). To improve the accuracy of the geocoding tool it's best to organise your data in readable addresses. I aligned my columns like this:
 
@@ -79,6 +79,8 @@ Open up the CSV file you exported in step 1 in a spreadsheet editor (I use Googl
 This allowed me to copy them into the geocoder easily and is also helpful to paste the results back in.
 
 ![Geocoding addresses with https://geocode.localfocus.nl](./geocoding-addresses.png)
+
+The service sometimes returns a lot of possible addresses, meaning you will have to select the correct address out of a list of options.
 
 Once geocoded, you scroll down to the results and copy them. Go back to the CSV file and add two columns to the right of the `country` column: `latitude` and `longitude`. To prevent overwriting the original data, I created a new tab/spreadsheet in Google Sheets, where I pasted the results. I then selected all the `latitude` and `longitude` items and copied them to my clipboard. I then went back to the customer data spreadsheets and pasted the coordinate date in the `latitude` and `longitude` columns.
 
@@ -92,7 +94,7 @@ You now want to export your data to a CSV file. Mapbox has some restrictions on 
 A few gotchas:
 
 - Some spreadsheet editors export all empty rows and unnamed columns. It can be worth removing the unused rows at the bottom and right of your data.
-- Make sure your exported files contains Comma Separated Values and now Semicolon Separated Values. Mapbox only accepts the former.
+- Make sure your exported file contains Comma Separated Values and not Semicolon Separated Values. Mapbox only accepts the former.
 
 <br />
 <br />
@@ -119,14 +121,16 @@ To use the Dataset in the Styles editor, it needs to be converted to a Tileset. 
 
 This is the fun part! We can finally design and create the map. Go to [Styles](https://www.mapbox.com/studio/) and create a new Style. You can start with the Basic style, use a template or upload a style yourself. I chose Light as it matches the design of [checkoutpage.co](checkoutpage.co), where I will use the map.
 
-Now press the `Add layer` button and add your dataset to the list of active sources. You should now see your data appear on the map! You can click the Type tab to change the looks of your data. This also allows you to use a value from the dataset you've uploaded, such as the total order amount. Once you've added your layer you can select it and change the way it looks, the positioning, et cetera. I'm going for the icon of a bag and because I don't have so many items mapped out, I'll make the icon a bit larger.
+Now press the `Add layer` button and add your dataset to the list of active sources. You should now see your data appear on the map. Nice!
+
+You can click the Type tab to change the looks of your data. This also allows you to use a value from the dataset you've uploaded, such as the total order amount. Once you've added your layer you can select it and change the way it looks, the positioning, et cetera. I'm going for the icon of a bag and because I don't have so many items mapped out, I'll make the icon a bit larger.
 
 <br />
 <br />
 
 ## 7. Use your map
 
-I simply wanted an image, so I'm making a screenshot from the map. If you want to print the map or some reason, there's a print option in the top right corner. This is however [limited to 5 prints](https://www.mapbox.com/help/how-static-maps-work/).
+I simply wanted an image, so I'm simply taking a screenshot of the map. If you need a larger image, for example to print, there's a print option in the top right corner. This is however [limited to 5 prints](https://www.mapbox.com/help/how-static-maps-work/) and needs to contain Mapbox attribution.
 
 ![Mapbox customer map result](./mapbox-map-result.png)
 
@@ -156,15 +160,3 @@ This process takes quite some time, which is annoying. Especially if you want to
 </div>
 
 <br />
-
-<!-- 
-  todo:
-
-  reduce image size
-  add link to sign up form /payment at beginning
-  deploy
-  share in /r/Entrepreneur
-  share on hackernews
-  post on Medium (import)
-
--->
