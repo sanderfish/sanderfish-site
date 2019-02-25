@@ -12,18 +12,18 @@ const IndexPage = ({ data, location }) => {
       <div className="pv2">
         <h3>Hey, I'm Sander.</h3>
         <h2>
-          I (help companies) create, maintain, scale and communicate software
-          products.
+          I help companies create, communicate and grow software products.
         </h2>
         <p>
-          I'm an entrepreneur and full stack developer/designer. I can help you
+          I'm a full stack developer/designer and entrepreneur. I can help you
           build your MVP, redesign your application or website, add features to
           your existing application or create your new marketing site.
         </p>
         <p>
-          I care about speed, SEO, accessibility and good UX. I believe it's
-          important for companies to ship fast and iterate quickly. The most
-          important part is to get the work out there for people to see and use.
+          I care about speed, SEO, accessibility and good UX. I believe software
+          companies should launch fast and iterate often. The most important
+          part of creating software is to get it out there for people to see and
+          use.
         </p>
         <p>
           I grew up in the Netherlands and now travel and work throughout Europe
@@ -79,7 +79,9 @@ const IndexPage = ({ data, location }) => {
               admin dashboard
               <br />
             </div>
-            <div className="pv1">PHP (Zend Framework), MySQL, </div>
+            <div className="pv1">
+              PHP, MySQL, Node, React, Styled-Components
+            </div>
           </li>
           <li className="pv2">
             <div className="pv1">
