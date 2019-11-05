@@ -18,19 +18,24 @@ const NowPage = ({ location }) => (
         me know!
       </p>
       <p>
-        I'm also setting up a creative development agency with 
-        <a href="https://flowen.me" target="_blank">Lowen</a>. We will help 
-        companies in the creative industry make web experiences and software 
-        for humans.
+        I'm also setting up a creative development agency with{' '}
+        <a href="https://flowen.me" target="_blank">
+          Lowen
+        </a>
+        . We will help companies in the creative industry make web experiences
+        and software for humans. I'm excited to dive more into a niche and a new
+        industry. Creative programming is stil quite new to me but offers a
+        whole new set of challenges (and maths!).
       </p>
       <p>
-        I'm still working freelance, ranging from web applications to marketing 
-        sites and technical SEO.
+        In the meantime I'm still working freelance, ranging from web
+        applications to marketing sites and technical SEO. Feel free to reach
+        out if you need any help in React, Node or front-end development.
       </p>
       <p>
-        On a more personal note, I have finally traveled out of Europe and am 
-        currently in Thailand. Life is definitely a little different on this 
-        side of the globe, but interesting nevertheless.
+        On a more personal note, I have finally traveled out of Europe and am
+        currently in Thailand. Life is quite different on this side of the
+        globe.
       </p>
     </div>
   </Layout>

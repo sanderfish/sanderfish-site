@@ -196,7 +196,7 @@ const IndexPage = ({ data, location }) => {
           you have a problem to solve and want to work together, contact me on
           Twitter (<a href="https://twitter.com/fishsander">@fishsander</a>) or
           send me an email at{' '}
-          <a href="mailto:sander@sanderfish.nl">sander@sanderfish.nl</a>.
+          <a href="mailto:sander@sanderfish.com">sander@sanderfish.com</a>.
         </p>
       </div>
     </Layout>
