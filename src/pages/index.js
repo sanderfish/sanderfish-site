@@ -51,6 +51,20 @@ const IndexPage = ({ data, location }) => {
           </li>
           <li className="pv2">
             <div className="pv1">
+              <a href="https://limbic.ai" target="blank">
+                Limbic
+              </a>
+            </div>
+            <div className="pv1">
+              Freelance / Development of data driven clinician dashboard and 
+              marketing site.
+            </div>
+            <div className="pv1">
+              React, Styled-Components, Apollo GraphQL
+            </div>
+          </li>
+          <li className="pv2">
+            <div className="pv1">
               <a href="https://essentialcal.com" target="blank">
                 Essential
               </a>
@@ -117,12 +131,12 @@ const IndexPage = ({ data, location }) => {
           <li className="pv2">
             <div className="pv1">
               <a href="http://wordeys.com" target="blank">
-                Wordeys
+                Wordeys (sold)
               </a>
               <br />
             </div>
             <div className="pv1">
-              Founder / Helping people practise vocabulary online.
+              Cofounder / Helping people practise vocabulary online.
               <br />
             </div>
             <div className="pv1">
