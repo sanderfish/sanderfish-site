@@ -183,7 +183,7 @@ const IndexPage = ({ data, location }) => {
           <ul>
             <li>Design: Sketch / Figma</li>
             <li>
-              Front end: JavaScript / React / Styled Components / Tailwind CSS
+              Front end: JavaScript / React / Styled Components
             </li>
             <li>Back end: NodeJS / Express / Koa</li>
           </ul>
