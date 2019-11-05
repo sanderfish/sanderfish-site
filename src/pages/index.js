@@ -28,7 +28,7 @@ const IndexPage = ({ data, location }) => {
         </p>
         <p>
           I grew up in the Netherlands and now travel by plane, train and{' '}
-          <span style="text-decoration: line-through">van</span> while working
+          <span style={{ textDecoration: 'line-through' }}>van</span> while working
           remotely. You can find me on Twitter at{' '}
           <a href="https://twitter.com/fishsander">@fishsander</a>.
         </p>
