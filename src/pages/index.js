@@ -15,9 +15,10 @@ const IndexPage = ({ data, location }) => {
           I help companies create, communicate and grow software products.
         </h2>
         <p>
-          I'm a full stack developer/designer and entrepreneur. I can help you
-          build your MVP, redesign your application or website, add features to
-          your existing application or create your new marketing site.
+          I'm a full stack developer/designer and entrepreneur. I can help your
+          company build an MVP, redesign your application or website, add
+          features to your existing application or create your new marketing
+          site.
         </p>
         <p>
           I care about speed, SEO, accessibility and good UX. I believe software
@@ -26,11 +27,13 @@ const IndexPage = ({ data, location }) => {
           use.
         </p>
         <p>
-          I grew up in the Netherlands and now travel and work throughout Europe
-          by plane, train and van. You can find me on Twitter at{' '}
+          I grew up in the Netherlands and now travel by plane, train and{' '}
+          <span style="text-decoration: line-through">van</span> while working
+          remotely. You can find me on Twitter at{' '}
           <a href="https://twitter.com/fishsander">@fishsander</a>.
         </p>
       </div>
+
       <div className="pv2">
         <h3>Recent work</h3>
         <ul className="w-80">
@@ -56,12 +59,10 @@ const IndexPage = ({ data, location }) => {
               </a>
             </div>
             <div className="pv1">
-              Freelance / Development of data driven clinician dashboard and 
+              Freelance / Development of data driven clinician dashboard and
               marketing site.
             </div>
-            <div className="pv1">
-              React, Styled-Components, Apollo GraphQL
-            </div>
+            <div className="pv1">React, Styled-Components, Apollo GraphQL</div>
           </li>
           <li className="pv2">
             <div className="pv1">
