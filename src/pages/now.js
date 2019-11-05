@@ -18,23 +18,19 @@ const NowPage = ({ location }) => (
         me know!
       </p>
       <p>
-        I'm also working on{' '}
-        <a href="https://essentialcal.com" target="blank">
-          Essential
-        </a>
-        , which is a weekly planner my friend{' '}
-        <a href="http://stay-bold.com" target="blank">
-          Joris de Ruiter
-        </a>{' '}
-        and I made to help us focus better.
+        I'm also setting up a creative development agency with 
+        <a href="https://flowen.me" target="_blank">Lowen</a>. We will help 
+        companies in the creative industry make web experiences and software 
+        for humans.
       </p>
       <p>
-        I'm currently working freelance for{' '}
-        <a href="https://bijlesmatch.nl" target="blank">
-          BijlesMatch
-        </a>
-        , where I'm maintaining and adding features to their customer portal and
-        admin dashboard.
+        I'm still working freelance, ranging from web applications to marketing 
+        sites and technical SEO.
+      </p>
+      <p>
+        On a more personal note, I have finally traveled out of Europe and am 
+        currently in Thailand. Life is definitely a little different on this 
+        side of the globe, but interesting nevertheless.
       </p>
     </div>
   </Layout>
