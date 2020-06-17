@@ -100,23 +100,6 @@ const IndexPage = ({ data, location }) => {
           </li>
           <li className="pv2">
             <div className="pv1">
-              <a href="https://www.bookinglayer.com/en/" target="blank">
-                Bookinglayer
-              </a>
-              <br />
-            </div>
-            <div className="pv1">
-              Freelance / Design and development of marketing website (with{' '}
-              <a href="http://stay-bold.com" target="blank">
-                Stay Bold
-              </a>
-              ).
-              <br />
-            </div>
-            <div className="pv1">Jekyll, Markdown, Sass, Foundation</div>
-          </li>
-          <li className="pv2">
-            <div className="pv1">
               <a href="https://convertcalculator.co" target="blank">
                 ConvertCalculator Checkout
               </a>
@@ -181,11 +164,11 @@ const IndexPage = ({ data, location }) => {
           </p>
 
           <ul>
-            <li>Design: Sketch / Figma</li>
+            <li>Design: Figma</li>
             <li>
-              Front end: JavaScript / React / Styled Components
+              Front end: JavaScript / React / Nextjs / Gatsby
             </li>
-            <li>Back end: NodeJS / Express / Koa</li>
+            <li>Back end: NodeJS / Express / MongoDB / Serverless</li>
           </ul>
         </div>
       </div>
@@ -195,7 +178,7 @@ const IndexPage = ({ data, location }) => {
         <p>
           I'm currently available for hire for contract/freelance projects. If
           you have a problem to solve and want to work together, contact me on
-          Twitter (<a href="https://twitter.com/fishsander">@fishsander</a>) or
+          Twitter (<a href="https://twitter.com/fishsander">@fishsander</a>), Telegram (<a href="https://t.me/sanderfish">@sanderfish</a>) or
           send me an email at{' '}
           <a href="mailto:sander@sanderfish.com">sander@sanderfish.com</a>.
         </p>
