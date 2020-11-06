@@ -54,6 +54,32 @@ const IndexPage = ({ data, location }) => {
           </li>
           <li className="pv2">
             <div className="pv1">
+              <a href="https://makeover.nl" target="blank">
+                Makeover
+              </a>
+            </div>
+            <div className="pv1">
+              Freelance / Maintenance and development of content site, shopping feed, admin panel and data feed importer.
+            </div>
+            <div className="pv1">
+              Next.js, Serverless, NodeJS, MongoDB, React, Sanity
+            </div>
+          </li>
+          <li className="pv2">
+            <div className="pv1">
+              <a href="https://problem.studio" target="blank">
+                Problem Studio
+              </a>
+            </div>
+            <div className="pv1">
+              Founder / Collaborating on wow-sites (with{' '}<a href="http://flowen.me" target="_blank">Flowen</a>).
+            </div>
+            <div className="pv1">
+              React, Greensock, Animation
+            </div>
+          </li>
+          <li className="pv2">
+            <div className="pv1">
               <a href="https://limbic.ai" target="blank">
                 Limbic
               </a>
@@ -80,51 +106,6 @@ const IndexPage = ({ data, location }) => {
             </div>
             <div className="pv1">
               Meteor, React, Styled-Components, MongoDB, Heroku
-            </div>
-          </li>
-          <li className="pv2">
-            <div className="pv1">
-              <a href="https://www.bijlesmatch.nl" target="blank">
-                BijlesMatch
-              </a>
-              <br />
-            </div>
-            <div className="pv1">
-              Freelance / Maintenance and development of a customer portal and
-              admin dashboard
-              <br />
-            </div>
-            <div className="pv1">
-              PHP, MySQL, Node, React, Styled-Components
-            </div>
-          </li>
-          <li className="pv2">
-            <div className="pv1">
-              <a href="https://convertcalculator.co" target="blank">
-                ConvertCalculator Checkout
-              </a>
-              <br />
-            </div>
-            <div className="pv1">
-              Freelance / Adding Stripe Connect checkout functionality to
-              existing application.
-              <br />
-            </div>
-            <div className="pv1">Meteor, React, Stripe Connect</div>
-          </li>
-          <li className="pv2">
-            <div className="pv1">
-              <a href="http://wordeys.com" target="blank">
-                Wordeys (sold)
-              </a>
-              <br />
-            </div>
-            <div className="pv1">
-              Cofounder / Helping people practise vocabulary online.
-              <br />
-            </div>
-            <div className="pv1">
-              Ruby on Rails, PostgreSQL, Vanilla JS, Sass, Heroku
             </div>
           </li>
         </ul>
