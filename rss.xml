@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sanderfish | Bootstrapper, Developer and Product Designer]]></title><description><![CDATA[Sander Visser is a digital nomad, bootstrapper, developer and product designer. He loves to develop and design digital products, web apps and websites.]]></description><link>https://sanderfish.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 05 Nov 2019 04:25:03 GMT</lastBuildDate><item><title><![CDATA[Reflecting on a year without alcohol]]></title><description><![CDATA[Sometime this month last year, I quit drinking alcohol. I had no goal, no reason and no expectations. I just wanted to see what it was like…]]></description><link>https://sanderfish.com/year-without-alcohol/</link><guid isPermaLink="false">https://sanderfish.com/year-without-alcohol/</guid><pubDate>Fri, 12 Apr 2019 10:04:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Sometime this month last year, I quit drinking alcohol. I had no goal, no reason and no expectations. I just wanted to see what it was like. The changes that happened since not drinking are subtle, but they are very real.&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sanderfish | Bootstrapper, Developer and Product Designer]]></title><description><![CDATA[Sander Visser is a digital nomad, bootstrapper, developer and product designer. He loves to develop and design digital products, web apps and websites.]]></description><link>https://sanderfish.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 06 Nov 2020 08:39:45 GMT</lastBuildDate><item><title><![CDATA[Reflecting on a year without alcohol]]></title><description><![CDATA[Sometime this month last year, I quit drinking alcohol. I had no goal, no reason and no expectations. I just wanted to see what it was like…]]></description><link>https://sanderfish.com/year-without-alcohol/</link><guid isPermaLink="false">https://sanderfish.com/year-without-alcohol/</guid><pubDate>Fri, 12 Apr 2019 10:04:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Sometime this month last year, I quit drinking alcohol. I had no goal, no reason and no expectations. I just wanted to see what it was like. The changes that happened since not drinking are subtle, but they are very real.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;First, I go out less at night. I barely visit bars, pubs, clubs and concerts. Traveling plays a part in this as well, especially for the concerts. Activities and events at night usually end earlier, or at least I end up leaving earlier than I would in the past. I’m usually in bed before midnight, also on weekends. This causes me to have a much more balanced sleeping pattern. I sleep 8 hours most nights, and usually get up before 8.&lt;/p&gt;
 &lt;p&gt;I used to get up late-ish (9-10am), feel tired during the day and feel unfinished at night. I would work late to finish work I didn’t get done because I got up late and was tired, leaving no time for other activities.&lt;/p&gt;
 &lt;p&gt;I barely work (professionally) in the evening anymore, except hobby projects. I usually feel satisfied with what I’ve done that day around 5-7pm. I now spend that time for example on cooking, walking or playing boardgames.&lt;/p&gt;
@@ -12,37 +12,38 @@
 &lt;p&gt;At the same time, the friendships I did make feel stronger and deeper. I’ve had meaningful conversations instead of a shared night of fun. I’ve learnt from people by talking about topics that are valuable to me.&lt;/p&gt;
 &lt;p&gt;I don’t think one has to exclude the other. You can probably have meaningful conversations and drink. I try to not let my own preferences and decisions, on this topic and on other topics, influence my opinion on others. I think relationships come from understanding. Sharing the same values likely means you understand each other, but you can still understand each other without sharing the same values. It just takes a bit more effort and a bit less judgement.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Create a map of your sales or customers with Mapbox]]></title><description><![CDATA[When you sell digital or physical products online, people all over the world (or country) buy your products. I thought it would be fun to…]]></description><link>https://sanderfish.com/create-a-map-of-your-sales-or-customers-with-mapbox/</link><guid isPermaLink="false">https://sanderfish.com/create-a-map-of-your-sales-or-customers-with-mapbox/</guid><pubDate>Fri, 04 Jan 2019 10:17:00 GMT</pubDate><content:encoded>&lt;p&gt;When you sell digital or physical products online, people all over the world (or country) buy your products. I thought it would be fun to see where the people that buy my products are from. Those type of maps are typically used for social proof as they show potential customers that you are a trusted business and have served customers globally.&lt;/p&gt;
 &lt;p&gt;It gives potential customers a feel of how many customers you have and where they are located. You could possibly add the order amount or the product bought as well, to give a better indication of which products are popular.&lt;/p&gt;
-&lt;p&gt;&lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/a674a3fca4004ce74c9bb5df78a02e56/cc542/customer-maps.png&quot;
+    href=&quot;/static/a674a3fca4004ce74c9bb5df78a02e56/5a791/customer-maps.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 72.99679487179488%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAADxElEQVQ4yy1TyXIiRxDlu3z20RHTE+Ev8NG/4IMPvvgwipjwXCwrJDYtIJaWkAAFIIFEA73R3UBDs7TEIgnESAhGY2trqp6rNXPIyKiszJcvX1V6zJGKUm+OfOcFR81HpC2CkE6wVV0ifDZDWjaR08oQRwVmpzDHGuRBEVK/gNp1Ea2xBG1gQ++PIXTn8OhjAXlbQ7nFrNvEhkzgVwCfCuTDRxBLWVQHCnoTEd2JAnsioz4UoF4UGUgR6uAUUeMBEf0V6yKFZ1gIopXcgBz8hEjpEgEN8DNQFzBTbSOrqsibJpTzNsxzA+2egOm0hulNFZ1rCblWHSHtET5GIqgywN5ZAlV+B8njJryqC7aEV6bYVl/QGfZY0QSiPUWnp2LQK8Pui7i8EtEfl6F2VQTErwxoiQCrDbiAMfMJe41bhIRbbEnPb8w2WLdk7RaTqxLubzXc3TUwGNWRY3nZ9mdkmzaOZAlx+ZrJQ+H/DuZ6j4+x8TM7rHeQMU8Q1acIsqRN5QkR9RJZvQLNPEDFMlmcwCst3wrjBRu7yhU2pX/hZ0QCiqs9gSegEsrmp4nakJa6aVof5ul+7Z56WWxdduPX1GinaNq4oIwNDTBz/aa2pGHjmR7rF5Q3JpTpThlL6glW8dZxu0rQuijhtNNFwI25bNzRGwvUejJi+vztK7laueJvMF8q6Lhlr24rWexkb+A34DKEwwqdqP7VqZ63HNbdYYwdJoXDGr1uaXDC2qM7xSs7f7//lhORvzgxVpfN15xA+YlhLBxPUFpwAXnO5ZpjTujfcVt1cCH1kUvU/uPWTufvVzKzn9joP/plvPdVKLetOtxRx81ZcusquNUyuH8a4NYlcOHKlPPs5NYtpZuzmleaFRby1m55z9JHKat9GWklxbXRn94Pu6nq6w+55rwvni9ald6LdXHzZKXNpbVvPFjlzsI6v760JPuzlW89WZ7NXABJeQ+ZjoG/+CzW+E0MZjya4xDiCo/fvb7GgU5+royeobVKqJg2Mj0gljBRNksYPLRhL1To4yGK3SU8ISFFUkaS8HqZiN0s0SyeFIwU4YtR51PyCL/5tuS48vJuvw6kDgvLWCRLdqsgQkUjuiES09aJZmskKn0hMQ3Es3p8glAxBV7cR0IXcNbgkTAq2BZOlquJCH5d+VtJ6PRdqgnwBkiyPqSp+g373DNU2hp4tlG8MsOhdo89nW3Kyt4BIpUMDvQiC4g4YGD7NQlh6XT5IRrHL398VHgN3wAZg0xtQtP1GWKKg4Q2Q1xzt+oZx3IHEWGO/wFKh+I8HR8T3gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 72.97297297297297%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAADxElEQVQ4yy1TyXIiRxDlu3z20RHTE+Ev8NG/4IMPvvgwipjwXCwrJDYtIJaWkAAFIIFEA73R3UBDs7TEIgnESAhGY2trqp6rNXPIyKiszJcvX1V6zJGKUm+OfOcFR81HpC2CkE6wVV0ifDZDWjaR08oQRwVmpzDHGuRBEVK/gNp1Ea2xBG1gQ++PIXTn8OhjAXlbQ7nFrNvEhkzgVwCfCuTDRxBLWVQHCnoTEd2JAnsioz4UoF4UGUgR6uAUUeMBEf0V6yKFZ1gIopXcgBz8hEjpEgEN8DNQFzBTbSOrqsibJpTzNsxzA+2egOm0hulNFZ1rCblWHSHtET5GIqgywN5ZAlV+B8njJryqC7aEV6bYVl/QGfZY0QSiPUWnp2LQK8Pui7i8EtEfl6F2VQTErwxoiQCrDbiAMfMJe41bhIRbbEnPb8w2WLdk7RaTqxLubzXc3TUwGNWRY3nZ9mdkmzaOZAlx+ZrJQ+H/DuZ6j4+x8TM7rHeQMU8Q1acIsqRN5QkR9RJZvQLNPEDFMlmcwCst3wrjBRu7yhU2pX/hZ0QCiqs9gSegEsrmp4nakJa6aVof5ul+7Z56WWxdduPX1GinaNq4oIwNDTBz/aa2pGHjmR7rF5Q3JpTpThlL6glW8dZxu0rQuijhtNNFwI25bNzRGwvUejJi+vztK7laueJvMF8q6Lhlr24rWexkb+A34DKEwwqdqP7VqZ63HNbdYYwdJoXDGr1uaXDC2qM7xSs7f7//lhORvzgxVpfN15xA+YlhLBxPUFpwAXnO5ZpjTujfcVt1cCH1kUvU/uPWTufvVzKzn9joP/plvPdVKLetOtxRx81ZcusquNUyuH8a4NYlcOHKlPPs5NYtpZuzmleaFRby1m55z9JHKat9GWklxbXRn94Pu6nq6w+55rwvni9ald6LdXHzZKXNpbVvPFjlzsI6v760JPuzlW89WZ7NXABJeQ+ZjoG/+CzW+E0MZjya4xDiCo/fvb7GgU5+royeobVKqJg2Mj0gljBRNksYPLRhL1To4yGK3SU8ISFFUkaS8HqZiN0s0SyeFIwU4YtR51PyCL/5tuS48vJuvw6kDgvLWCRLdqsgQkUjuiES09aJZmskKn0hMQ3Es3p8glAxBV7cR0IXcNbgkTAq2BZOlquJCH5d+VtJ6PRdqgnwBkiyPqSp+g373DNU2hp4tlG8MsOhdo89nW3Kyt4BIpUMDvQiC4g4YGD7NQlh6XT5IRrHL398VHgN3wAZg0xtQtP1GWKKg4Q2Q1xzt+oZx3IHEWGO/wFKh+I8HR8T3gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Customer maps&quot;
-        title=&quot;&quot;
-        src=&quot;/static/a674a3fca4004ce74c9bb5df78a02e56/fb8a0/customer-maps.png&quot;
-        srcset=&quot;/static/a674a3fca4004ce74c9bb5df78a02e56/1a291/customer-maps.png 148w,
-/static/a674a3fca4004ce74c9bb5df78a02e56/2bc4a/customer-maps.png 295w,
-/static/a674a3fca4004ce74c9bb5df78a02e56/fb8a0/customer-maps.png 590w,
-/static/a674a3fca4004ce74c9bb5df78a02e56/526de/customer-maps.png 885w,
-/static/a674a3fca4004ce74c9bb5df78a02e56/fa2eb/customer-maps.png 1180w,
-/static/a674a3fca4004ce74c9bb5df78a02e56/cc542/customer-maps.png 1248w&quot;
+        title=&quot;Customer maps&quot;
+        src=&quot;/static/a674a3fca4004ce74c9bb5df78a02e56/fcda8/customer-maps.png&quot;
+        srcset=&quot;/static/a674a3fca4004ce74c9bb5df78a02e56/12f09/customer-maps.png 148w,
+/static/a674a3fca4004ce74c9bb5df78a02e56/e4a3f/customer-maps.png 295w,
+/static/a674a3fca4004ce74c9bb5df78a02e56/fcda8/customer-maps.png 590w,
+/static/a674a3fca4004ce74c9bb5df78a02e56/efc66/customer-maps.png 885w,
+/static/a674a3fca4004ce74c9bb5df78a02e56/c83ae/customer-maps.png 1180w,
+/static/a674a3fca4004ce74c9bb5df78a02e56/5a791/customer-maps.png 1248w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;blockquote&gt;
 &lt;blockquote&gt;
@@ -75,15 +76,9 @@
 &lt;h2&gt;1. Get your customer/sales data as a CSV file&lt;/h2&gt;
 &lt;p&gt;Most e-commerce platforms offer a way to export your sales or customer data. Often this export will be in the CSV format, which you can open in Google Sheets, Numbers (Mac OS) or Microsoft Excel. Here are some links that should help you to get your initial export for a couple of platforms:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Shopify Orders &lt;a href=&quot;https://help.shopify.com/en/manual/orders/export-orders&quot;&gt;https://help.shopify.com/en/manual/orders/export-orders&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Shopify Customers &lt;a href=&quot;https://help.shopify.com/en/manual/customers/import-export-customers&quot;&gt;https://help.shopify.com/en/manual/customers/import-export-customers&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Etsy Orders &lt;a href=&quot;https://help.etsy.com/hc/en-gb/articles/360000343328-Downloading-a-Spreadsheet-of-Your-Sold-Transactions&quot;&gt;https://help.etsy.com/hc/en-gb/articles/360000343328-Downloading-a-Spreadsheet-of-Your-Sold-Transactions&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Shopify Orders &lt;a href=&quot;https://help.shopify.com/en/manual/orders/export-orders&quot;&gt;https://help.shopify.com/en/manual/orders/export-orders&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Shopify Customers &lt;a href=&quot;https://help.shopify.com/en/manual/customers/import-export-customers&quot;&gt;https://help.shopify.com/en/manual/customers/import-export-customers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Etsy Orders &lt;a href=&quot;https://help.etsy.com/hc/en-gb/articles/360000343328-Downloading-a-Spreadsheet-of-Your-Sold-Transactions&quot;&gt;https://help.etsy.com/hc/en-gb/articles/360000343328-Downloading-a-Spreadsheet-of-Your-Sold-Transactions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Stripe - Stripe payments and customers exports don’t include Billing or Shipping addresses. It is however possible to get these via the API as JSON as explained here &lt;a href=&quot;https://stripe.com/docs/api/charges/list&quot;&gt;https://stripe.com/docs/api/charges/list&lt;/a&gt;. I use the following code to save my customers to a json file, which I then convert to a CSV file via &lt;a href=&quot;https://konklone.io/json/&quot;&gt;https://konklone.io/json/&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;curl https://api.stripe.com/v1/customers?limit=9999 \
@@ -91,18 +86,10 @@
 -G \
 -o data.json&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;WooCommerce &lt;a href=&quot;https://docs.woocommerce.com/document/ordercustomer-csv-export/&quot;&gt;https://docs.woocommerce.com/document/ordercustomer-csv-export/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;SquareSpace &lt;a href=&quot;https://support.squarespace.com/hc/en-us/articles/206540677-Exporting-orders&quot;&gt;https://support.squarespace.com/hc/en-us/articles/206540677-Exporting-orders&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Wix &lt;a href=&quot;https://support.wix.com/en/article/exporting-orders-in-wix-stores&quot;&gt;https://support.wix.com/en/article/exporting-orders-in-wix-stores&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;BigCommerce &lt;a href=&quot;https://support.bigcommerce.com/s/article/Importing-Exporting-Orders&quot;&gt;https://support.bigcommerce.com/s/article/Importing-Exporting-Orders&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;WooCommerce &lt;a href=&quot;https://docs.woocommerce.com/document/ordercustomer-csv-export/&quot;&gt;https://docs.woocommerce.com/document/ordercustomer-csv-export/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SquareSpace &lt;a href=&quot;https://support.squarespace.com/hc/en-us/articles/206540677-Exporting-orders&quot;&gt;https://support.squarespace.com/hc/en-us/articles/206540677-Exporting-orders&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wix &lt;a href=&quot;https://support.wix.com/en/article/exporting-orders-in-wix-stores&quot;&gt;https://support.wix.com/en/article/exporting-orders-in-wix-stores&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BigCommerce &lt;a href=&quot;https://support.bigcommerce.com/s/article/Importing-Exporting-Orders&quot;&gt;https://support.bigcommerce.com/s/article/Importing-Exporting-Orders&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If you use a different ecommerce platform, simply Google ’[name of your ecommerce platform] export orders’ to find out how you can export your data.&lt;/p&gt;
 &lt;br /&gt;
@@ -135,36 +122,37 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;This allowed me to copy them into the geocoder easily and is also helpful to paste the results back in.&lt;/p&gt;
-&lt;p&gt;&lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f07120316ecf748d951c9b92b2a194a6/3c2f0/geocoding-addresses.png&quot;
+    href=&quot;/static/f07120316ecf748d951c9b92b2a194a6/078fe/geocoding-addresses.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 69.16488222698072%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB1UlEQVQ4y41S227UMBDtxyGhChB9QYgXfgZxlxBIfAxqqSjiG5AQ4qUtm+xunDh2YudiZ4aZ2Wy6m1KopZMZz4xP5naAdABgwvbs6pNtJ/aab7Qd8KfvOiy1htVyCcliAVmWiVyvVnBxfg5KKViv17BMU7YhI00STBYJpmmCHb3fkgphiAP6poPat1BoA1XtSW/AWAeWdNe04qtdw6DYlu1INkKzl7EQxmEA63ss6w6N61FXregslWnI1gk2tk5iqyaIv6iavZYJ4TAMWFkDpS6ApTWlSIarK6grC7W14s9VhkplFGMwhkB1DhhjnDARmrKEjPpU5Dk9UtJPvq+oj0VRgHMOQgjQ9T31rGd9k9VsOFtCysYKCZPpIpcByBA2pJSVQmutxM6nOy8ZOEPnaiIqwBgu2YheUtZaa+QMM/oR3733I8/V+lwfSowwjOmzbxN8tXfjCt6Y1V+GEuePYIZbn3EPI+bWQ2Y8KLMveS1CiDK43WneBCH8fqnxzrNP+OD1Z7z7/BjvvTzBwxfHeP/Vidh/JiWO+/rPcqeSf/zWePT2FJ98+IqP3n3Bpx+/4eP3Z3J/+OYUfy2NEA4AtyuZmZs+omsD+i5gPUq+t2Tfneb/8AeoEDNUkBilEwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.91891891891892%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAAB3UlEQVQ4y5VS227UQAztxyEhBKi8IMQLP4OgXCQEEh+DWipAfAMSQrwU2GR3M8lckplcZmJje9N0d1sKjOTYYztnji8HSAcAZjk/2/bs28q9FJt8B/wZ+h6N1rBaLiFbLKAoCtHr1Qp+nJ2BUgrW6zUs85x9yJJnGWaLDPM8w57+PwcVwJhGCG2PTeig0hbqJkATWrDOgyPbtx1wjH21bzHQnfycT9LuMGZASOOIdRjQND1aP6CuO7FZK9uSrxfZ+HpwlFu3UeJV3e60TBiO4wi1s2B0JdpZI5rFNzU0tYPGOYmXqkClCsqxmGIkOiOmlGYRhgSI1hgoqE9VWYIqlPST7yvqY1VV4L2HGCP0w0A9G9jesNobzgxILwpISQNgUB4ANVyGQaDESqFzTqrZn+5+yQLomwY0MWGmDM62MRq01sgMC3rIUCyEMOFcrM/loVDt44a+xCYBuEi+ltUVQ0lwxQ7Pu4z/caY9TFi6AIUNoOyu5rWIMXHvdqb5JxHALz813nj8Du8+f483nxzj7aMTvPX0GO88OxH/t8zI67yv15U7l/z1l8Z7L0/x4ZtPeP/VB3z09jM+eP1R7ocvTvH70grgCPBvJTNyOyT0XcTQR2wmzfeO/NvT/Jv8BoXaM0aeX4FLAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Geocoding addresses with https://geocode.localfocus.nl&quot;
-        title=&quot;&quot;
-        src=&quot;/static/f07120316ecf748d951c9b92b2a194a6/fb8a0/geocoding-addresses.png&quot;
-        srcset=&quot;/static/f07120316ecf748d951c9b92b2a194a6/1a291/geocoding-addresses.png 148w,
-/static/f07120316ecf748d951c9b92b2a194a6/2bc4a/geocoding-addresses.png 295w,
-/static/f07120316ecf748d951c9b92b2a194a6/fb8a0/geocoding-addresses.png 590w,
-/static/f07120316ecf748d951c9b92b2a194a6/526de/geocoding-addresses.png 885w,
-/static/f07120316ecf748d951c9b92b2a194a6/3c2f0/geocoding-addresses.png 934w&quot;
+        title=&quot;Geocoding addresses with https://geocode.localfocus.nl&quot;
+        src=&quot;/static/f07120316ecf748d951c9b92b2a194a6/fcda8/geocoding-addresses.png&quot;
+        srcset=&quot;/static/f07120316ecf748d951c9b92b2a194a6/12f09/geocoding-addresses.png 148w,
+/static/f07120316ecf748d951c9b92b2a194a6/e4a3f/geocoding-addresses.png 295w,
+/static/f07120316ecf748d951c9b92b2a194a6/fcda8/geocoding-addresses.png 590w,
+/static/f07120316ecf748d951c9b92b2a194a6/efc66/geocoding-addresses.png 885w,
+/static/f07120316ecf748d951c9b92b2a194a6/078fe/geocoding-addresses.png 934w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;The service sometimes returns a lot of possible addresses, meaning you will have to select the correct address out of a list of options.&lt;/p&gt;
 &lt;p&gt;Once geocoded, you scroll down to the results and copy them. Go back to the CSV file and add two columns to the right of the &lt;code class=&quot;language-text&quot;&gt;country&lt;/code&gt; column: &lt;code class=&quot;language-text&quot;&gt;latitude&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;longitude&lt;/code&gt;. To prevent overwriting the original data, I created a new tab/spreadsheet in Google Sheets, where I pasted the results. I then selected all the &lt;code class=&quot;language-text&quot;&gt;latitude&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;longitude&lt;/code&gt; items and copied them to my clipboard. I then went back to the customer data spreadsheets and pasted the coordinate date in the &lt;code class=&quot;language-text&quot;&gt;latitude&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;longitude&lt;/code&gt; columns.&lt;/p&gt;
 &lt;br /&gt;
@@ -181,37 +169,38 @@
 &lt;h2&gt;4. Upload dataset to Mapbox&lt;/h2&gt;
 &lt;p&gt;We’ll use Mapbox to create the map. Mapbox offers some really nice map styles and you’re able to customise them as well. If you don’t have a Mapbox account yet, create one here &lt;a href=&quot;https://www.mapbox.com/signup/&quot;&gt;https://www.mapbox.com/signup/&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;To be able to map your data on a map in Mapbox, you need to add it as a dataset. Let’s go to &lt;a href=&quot;https://www.mapbox.com/studio/datasets/&quot;&gt;Datasets&lt;/a&gt; in the studio dashboard to add it. Press the &lt;code class=&quot;language-text&quot;&gt;New dataset&lt;/code&gt; button, click the &lt;code class=&quot;language-text&quot;&gt;upload&lt;/code&gt; tab and upload your CSV file. Press confirm, give your dataset a name, click &lt;code class=&quot;language-text&quot;&gt;Create&lt;/code&gt; and click &lt;code class=&quot;language-text&quot;&gt;Start editing&lt;/code&gt;. You should be able to see your datapoints on a map now.&lt;/p&gt;
-&lt;p&gt;&lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/d7a0ee4aa00a067c60759d1995ac4398/275c2/mapbox-dataset-customers.png&quot;
+    href=&quot;/static/d7a0ee4aa00a067c60759d1995ac4398/21b4d/mapbox-dataset-customers.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 61.09375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAACsklEQVQoz12S208TQRTG92/Sd3mAtiSFcKfbAi33lm67QCm0myYafJL4IkZAEKS0NJEEEx9QH+BJffFBEwkmXIwWexG5tJQtWDrbPZ4zQqNu8mXOzM75zTnfjLDzebPy6OT4eS6Xj57m1OXkwXFsP3UY+54+4kqgUgcnsdTPDB+TP07+zFHpw2zs4Og0tvctGdna3Xvx8dNmpfD+w5bvWGWQPDwD9bwAS5FlWFgMw+zcPDyamoGZx3OoWZhGLYYjEF6K4p4oH5/ML+CeaXjz9h1s76vwcOqpX/jydV+6uCxB7rxQUNU86+/vZ6JoYVZRZBaLhdntdtbW1oayMZfTyRw4J1mtVlZbW8sqKm6xZysrv1gJ4N7Efa8Qj8c9OgCo+Qstk8nqHo8HEARNTU2AIOjp6YGBgQEYHBwEr9cL7e3t/F9DQwM0NzeD0WjAaiNFRMDk5ANZ2N7Z9eTUC8jmzrRMNquPjY3xZKyAJ4miCHSIz+cDp9PJgbTW0tLChVXC+Pjd4stXrylPFhKJhIfopVJJU1VVDwQCHIitgw0rdEsSh9Eatg+dnZ18JHBrayvYbDaQJKnoGxmBjo4OWUin0xyIn5bP53W/388rum6xu7sb+vr6eEwwqsrhcIAsy+ByubiGhoaKwWAQurq6ZCGVSv0DHB0d5ckExI28GvKM1oaHh7kV5CvFJPIXDyhS3v9AdgXUEcaFQL23t1fHCnVsW0eAjgC6uPJ/t9ut4wFFsoUDsWXpCniJQIYta1iNhglcCCjH2KaGEK7rNYrxoAJdJlbqpQp98NcXCoX4JZCXJIqv5yNoPMVkBYlsIS/Jc8pDj/3C6urqjfX19dsbGxuBtbW1IN6UUl9fr+CTURobGxV8FkpdXV05NpvNislkUoxGI5fBYAhWVVUFampq7lRXV9/8DfvLYg5mcTMqAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.810810810810814%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAACqUlEQVQoz12Sy08TURTG529ijSsKCa8CIVBoYfqY0intDNBpoB1MiIS4kR2KPBSh1CYsYIO6IOw0bly4QQNGUWKfkEKlHWjrjPd4zlVYMMmXe2buOb97vjNX+Hr4yVa8ON+pGNfJy7KRyhbOUz+zZ6l0rvhP+WIqd3pxK9rP0orKn5VSp8XL1PFJNnlw9GXn4PDIJnz4+DlarJiQOSuDUa3DZvIlrL3YgJXV5/BkcQmWllfh6dIK1/pGAjYSm6gkX1efrcHC40V4++49HP74BYvL61Hh+0laqf5mcHlVq5XLZVOWA6bD4TAHBgb4KorDpsvl4grKsukWRa7BwUHT3tlp3mtsNLe2tmqAz9zcQ0XIpNMqvVxXq1apVGKKogCCWG9vL0MIkySJjY6OwtjYGNfQ0BDgHvT09EBfXx9rampiicSmRYz5+Ueq8O34WK3W6mAYVxwYi8WokGEHvAg7BTpE0zSQZZkD6RvCOLCjo4M9mJ21Xr1+AxMTE6qQyWR5h38Ys9Ayi8fiMD4+zgKBADhdLgiFwxyG30AURfB4POB2uzm4v9/BnE4nC4fDFu17vV5VKBQKHIiPValU2OTkJLdNCaqqgs/nA7/fz2OPx8s7IyDZDwaDJIadWVgHIyMjqpDP5+8CeTEBMZEX08wIEIlEgEaBc+UxiYCYY5GLu0CTgFNTU4wskxDIsDuGiUyLaPw9FAoxPPA2h959kmTS4ZjLLSv/gXXDMKh1CwtoJlz4hy3sjse0kj3SzT7FEU2rR6NR8EuSIuRyOQ1uPFsWTE/f51YogXRjjWKyRTGNg0RjoHmT6HZgh5qwvb3dsLe3N7O/vx/f3d3Vh4dFvaurS+/u7tbx2ujt7e263W7nMV4RvbW1VW9paeFqbm7WbTYbKd7W1jaDuQ1/AQmVYh6Xd6QtAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Mapbox customers dataset&quot;
-        title=&quot;&quot;
-        src=&quot;/static/d7a0ee4aa00a067c60759d1995ac4398/fb8a0/mapbox-dataset-customers.png&quot;
-        srcset=&quot;/static/d7a0ee4aa00a067c60759d1995ac4398/1a291/mapbox-dataset-customers.png 148w,
-/static/d7a0ee4aa00a067c60759d1995ac4398/2bc4a/mapbox-dataset-customers.png 295w,
-/static/d7a0ee4aa00a067c60759d1995ac4398/fb8a0/mapbox-dataset-customers.png 590w,
-/static/d7a0ee4aa00a067c60759d1995ac4398/526de/mapbox-dataset-customers.png 885w,
-/static/d7a0ee4aa00a067c60759d1995ac4398/fa2eb/mapbox-dataset-customers.png 1180w,
-/static/d7a0ee4aa00a067c60759d1995ac4398/275c2/mapbox-dataset-customers.png 1280w&quot;
+        title=&quot;Mapbox customers dataset&quot;
+        src=&quot;/static/d7a0ee4aa00a067c60759d1995ac4398/fcda8/mapbox-dataset-customers.png&quot;
+        srcset=&quot;/static/d7a0ee4aa00a067c60759d1995ac4398/12f09/mapbox-dataset-customers.png 148w,
+/static/d7a0ee4aa00a067c60759d1995ac4398/e4a3f/mapbox-dataset-customers.png 295w,
+/static/d7a0ee4aa00a067c60759d1995ac4398/fcda8/mapbox-dataset-customers.png 590w,
+/static/d7a0ee4aa00a067c60759d1995ac4398/efc66/mapbox-dataset-customers.png 885w,
+/static/d7a0ee4aa00a067c60759d1995ac4398/c83ae/mapbox-dataset-customers.png 1180w,
+/static/d7a0ee4aa00a067c60759d1995ac4398/21b4d/mapbox-dataset-customers.png 1280w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;h2&gt;5. Convert data to a Tileset&lt;/h2&gt;
@@ -226,37 +215,38 @@
 &lt;br /&gt;
 &lt;h2&gt;7. Use your map&lt;/h2&gt;
 &lt;p&gt;I simply wanted an image, so I’m simply taking a screenshot of the map. If you need a larger image, for example to print, there’s a print option in the top right corner. This is however &lt;a href=&quot;https://www.mapbox.com/help/how-static-maps-work/&quot;&gt;limited to 5 prints&lt;/a&gt; and needs to contain Mapbox attribution.&lt;/p&gt;
-&lt;p&gt;&lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f5bc769bae110a36afd389790a4ec7ff/275c2/mapbox-map-result.png&quot;
+    href=&quot;/static/f5bc769bae110a36afd389790a4ec7ff/21b4d/mapbox-map-result.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 76.015625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAACGklEQVQ4y21T2ZLaQAyc//+opLY2AS+3DcbHcngx2NjYXEmW5EnpVtnLkOxDl+ZSS2ppTM+byovrCS3hNGtn4sokCKS9/wytj81h7MMuSOL1WsrqIG+7rVx/XHRP8v50pm9o7b3CvXM8EE7mgaR5poS32y/58/tdFkmi0eevr9LHm+HM1z2zH/lzJbc5DC+/j8b6gNmsNhuZxbHsy0Ju7z8lWC41c61g7CoJSZM0lTTbydD39awznii5iVdredtuFTlI8mIv4WolCfaX61nGeEzCCGchyGmz/V6u14tcLmep61oOjUTBYimGkepjLefzSbHGnpnS2Ysi6OMp6QYB6EwSkh3hczod1aeqKynKUuaLhRgVGU5pluHxCdFz2ReFeGGEEidaagj9MmjLTBi8BgHJWlJK1G+aaqgfHclOwoIlY01tvw1HSrhEYxZrSpMikwJElb4lGaUaIKmPsbG7RKcA2bQjRLC7VziXh1JyZM/St2gGiXd5LoPZnYzW2INJsGPLBMRNli66n6DzFcolITtMjIBpEKrG9pCbf6edSNGxM8qhDBwHnlFDEre/qA0esXlheC+Ziw50bA84a3y0Q5PYMGpMAsrhR7FmRCkYyAURm8RGPmjYZkFwH2PWGL3bDKtj3f33l2EH/JLN2gyoCZxpW3jIxN5/hv7U1woU1rn52nXkAZ2uPDkvii9Y22jvaJ97PaCvVs8a/7+WpR55YexuuAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 76.35135135135135%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAAAsSAAALEgHS3X78AAAB90lEQVQoz21T2XKkMAzk//8rmcDMgLnMZW5zecBgUrvZfdsGslSuKpVL2GqpWxKa4bin6bZzdT2cJAi/3J/nR9NO74XYcZ6L8VE2fH1VSZ4j+ub5eLohI3Fw/gC+7oZqvG8Bfnv79ffP77QsAQ4YA5e7T409wAqCg907GB/PFiFhmBRFVlV+kgwPAXyQZuByMDIpNX1a8pp3LRyL0guxX2xHA9WqaaqGd2LoRR9lWcm5WhfLp3jGa5RmcZZ3Q/+6qlUt0zQ9xkfVtpQxraz5JCfcLstc8DopcuDdKEJN4OumkXJSallXJaVEDPxRjv1D0IRpW3sdB3zUMrd9NwhhhxFYoQshY7iZplHOE1LIWcKUmr04vnke5GjPJkEoZSmKCzGELEXNp7uJpFlVsjyH1EEMM9itM+RgFnfPO8amHV2BsaJAbw13SwmDjyKQNwx93XDeNkKItuvunq9/n/MhMt1SpEjsBGFZ1+Dc9RvA9CjxqRtGkGP83xbt8ya5NW/UIoOUXSwbKbq+RwoA0Hl8InuUpW4YvtM+5rytiutCfJxlTddimZ5MCwBopklyTPtiESeKJzmii9dzSU7Z+hZdEBrg5txk/QM1dBGwO3bO81FA+7KuJAjOOOMTbBOl7+Th/KwZY8AML3vDD9P3mW9L6vtYTNj5h/wD2KD3Mb+LZmUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Mapbox customer map result&quot;
-        title=&quot;&quot;
-        src=&quot;/static/f5bc769bae110a36afd389790a4ec7ff/fb8a0/mapbox-map-result.png&quot;
-        srcset=&quot;/static/f5bc769bae110a36afd389790a4ec7ff/1a291/mapbox-map-result.png 148w,
-/static/f5bc769bae110a36afd389790a4ec7ff/2bc4a/mapbox-map-result.png 295w,
-/static/f5bc769bae110a36afd389790a4ec7ff/fb8a0/mapbox-map-result.png 590w,
-/static/f5bc769bae110a36afd389790a4ec7ff/526de/mapbox-map-result.png 885w,
-/static/f5bc769bae110a36afd389790a4ec7ff/fa2eb/mapbox-map-result.png 1180w,
-/static/f5bc769bae110a36afd389790a4ec7ff/275c2/mapbox-map-result.png 1280w&quot;
+        title=&quot;Mapbox customer map result&quot;
+        src=&quot;/static/f5bc769bae110a36afd389790a4ec7ff/fcda8/mapbox-map-result.png&quot;
+        srcset=&quot;/static/f5bc769bae110a36afd389790a4ec7ff/12f09/mapbox-map-result.png 148w,
+/static/f5bc769bae110a36afd389790a4ec7ff/e4a3f/mapbox-map-result.png 295w,
+/static/f5bc769bae110a36afd389790a4ec7ff/fcda8/mapbox-map-result.png 590w,
+/static/f5bc769bae110a36afd389790a4ec7ff/efc66/mapbox-map-result.png 885w,
+/static/f5bc769bae110a36afd389790a4ec7ff/c83ae/mapbox-map-result.png 1180w,
+/static/f5bc769bae110a36afd389790a4ec7ff/21b4d/mapbox-map-result.png 1280w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;You can also embed your map interactively on your website. To do this, click &lt;code class=&quot;language-text&quot;&gt;Share&lt;/code&gt; and then &lt;code class=&quot;language-text&quot;&gt;Use&lt;/code&gt;. This will show some code you can copy and paste into your website to embed the map itself.&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -301,37 +291,38 @@
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/09d22fce1d30cc37499217e2e8ab34d0/30631/planning-system-joris.jpeg&quot;
+    href=&quot;/static/09d22fce1d30cc37499217e2e8ab34d0/b17f8/planning-system-joris.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAbMqTLwHG//EABsQAAIBBQAAAAAAAAAAAAAAAAABAgMQERIT/9oACAEBAAEFAnTizlExqOzP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bh//EABgQAAMBAQAAAAAAAAAAAAAAAAABESAx/9oACAEBAAY/AqzhFj//xAAYEAADAQEAAAAAAAAAAAAAAAAAAREh8P/aAAgBAQABPyFpDTkyMGCDErp//9oADAMBAAIAAwAAABA83//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxClf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QH//EABoQAAMBAQEBAAAAAAAAAAAAAAABESExQZH/2gAIAQEAAT8Q1CZbrL+voVcybOmtXBI6Jez6f//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAbMqTLwHG//EABsQAAIBBQAAAAAAAAAAAAAAAAABAgMQERIT/9oACAEBAAEFAnTizlExrdn/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGH/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAERIDH/2gAIAQEABj8CrOEWP//EABgQAAMBAQAAAAAAAAAAAAAAAAABESHw/9oACAEBAAE/IWkNOTIwYNDErp//2gAMAwEAAgADAAAAEDzf/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EKV//8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAIAQIBAT8QI//EABoQAAMBAQEBAAAAAAAAAAAAAAABESExQZH/2gAIAQEAAT8Q1CZbrL+voV8CbOm9XBI6Jez6f//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Joris showed me what his system looked like for a typical week.&quot;
-        title=&quot;&quot;
-        src=&quot;/static/09d22fce1d30cc37499217e2e8ab34d0/f8fb9/planning-system-joris.jpeg&quot;
-        srcset=&quot;/static/09d22fce1d30cc37499217e2e8ab34d0/e8976/planning-system-joris.jpeg 148w,
-/static/09d22fce1d30cc37499217e2e8ab34d0/63df2/planning-system-joris.jpeg 295w,
-/static/09d22fce1d30cc37499217e2e8ab34d0/f8fb9/planning-system-joris.jpeg 590w,
-/static/09d22fce1d30cc37499217e2e8ab34d0/85e3d/planning-system-joris.jpeg 885w,
-/static/09d22fce1d30cc37499217e2e8ab34d0/d1924/planning-system-joris.jpeg 1180w,
-/static/09d22fce1d30cc37499217e2e8ab34d0/30631/planning-system-joris.jpeg 1600w&quot;
+        title=&quot;Joris showed me what his system looked like for a typical week.&quot;
+        src=&quot;/static/09d22fce1d30cc37499217e2e8ab34d0/1c72d/planning-system-joris.jpg&quot;
+        srcset=&quot;/static/09d22fce1d30cc37499217e2e8ab34d0/a80bd/planning-system-joris.jpg 148w,
+/static/09d22fce1d30cc37499217e2e8ab34d0/1c91a/planning-system-joris.jpg 295w,
+/static/09d22fce1d30cc37499217e2e8ab34d0/1c72d/planning-system-joris.jpg 590w,
+/static/09d22fce1d30cc37499217e2e8ab34d0/a8a14/planning-system-joris.jpg 885w,
+/static/09d22fce1d30cc37499217e2e8ab34d0/fbd2c/planning-system-joris.jpg 1180w,
+/static/09d22fce1d30cc37499217e2e8ab34d0/b17f8/planning-system-joris.jpg 1600w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;blockquote&gt;
 &lt;blockquote&gt;
@@ -346,37 +337,38 @@
 &lt;h2&gt;How do you start using the system?&lt;/h2&gt;
 &lt;p&gt;Potentially, after reading this, you’ve been inspired to try it yourself and see if it works for you. There are a couple of ways you can start. The one you saw above is the simplest, most manual one — a piece of paper.&lt;/p&gt;
 &lt;p&gt;After I used paper for a while, it was annoying that I always needed to have my notebook with me. I used Google Sheets to create a simple layout and duplicated that every week.&lt;/p&gt;
-&lt;p&gt;&lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/9ae0aef1c92d8c43ed008d64345b5e03/7ef18/planning-system-sheets.png&quot;
+    href=&quot;/static/9ae0aef1c92d8c43ed008d64345b5e03/dca52/planning-system-sheets.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 33.29032258064516%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAAsSAAALEgHS3X78AAAA40lEQVQY012Qy66EIBBE/f+/c+VORzGXERQf+EJF54zkupiKIdVNVXVLVJZl27bOOUhjzDAMryxTShljhBDjOKZpmue5qipRFE3T9H0vCmGtnaYpSpIkjmPUdInw3o/Wruu67zvX53nih0Pmed5vcEuJMiI4y/heqlLXdbkbEJzbtkGklCFU6xonXGtNiT9algUFnDxaTzCiMJATwXEcrMpJae3ob0S0brOv3m8WwyP/JDMDDynBzED6bmVyTfk1d22LDlHXdWEmQP2cP+TBd+26rnkSknhefsH/I2QfN37II/gA2MST3cu3NBUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 33.108108108108105%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAAsSAAALEgHS3X78AAAA40lEQVQY012Qy66EIBBE/f+/c+VORzGXERQf+EJF54zkupiKIdVNVXVLVJZl27bOOUhjzDAMryxTShljhBDjOKZpmue5qipRFE3T9H0vCmGtnaYpSpIkjmPUdInw3o/Wruu67zvX53nih0Pmed5vcEuJMiI4y/heqlLXdbkbEJzbtkGklCFU6xonXGtNiT9algUFnDxaTzCiMJATwXEcrMpJae3ob0S0brOv3m8WwyP/JDMDDynBzED6bmVyTfk1d22LDlHXdWEmQP2cP+TBd+26rnkSknhefsH/I2QfN37II/gA2MST3cu3NBUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Simple spreadsheet setup.&quot;
-        title=&quot;&quot;
-        src=&quot;/static/9ae0aef1c92d8c43ed008d64345b5e03/fb8a0/planning-system-sheets.png&quot;
-        srcset=&quot;/static/9ae0aef1c92d8c43ed008d64345b5e03/1a291/planning-system-sheets.png 148w,
-/static/9ae0aef1c92d8c43ed008d64345b5e03/2bc4a/planning-system-sheets.png 295w,
-/static/9ae0aef1c92d8c43ed008d64345b5e03/fb8a0/planning-system-sheets.png 590w,
-/static/9ae0aef1c92d8c43ed008d64345b5e03/526de/planning-system-sheets.png 885w,
-/static/9ae0aef1c92d8c43ed008d64345b5e03/fa2eb/planning-system-sheets.png 1180w,
-/static/9ae0aef1c92d8c43ed008d64345b5e03/7ef18/planning-system-sheets.png 1550w&quot;
+        title=&quot;Simple spreadsheet setup.&quot;
+        src=&quot;/static/9ae0aef1c92d8c43ed008d64345b5e03/fcda8/planning-system-sheets.png&quot;
+        srcset=&quot;/static/9ae0aef1c92d8c43ed008d64345b5e03/12f09/planning-system-sheets.png 148w,
+/static/9ae0aef1c92d8c43ed008d64345b5e03/e4a3f/planning-system-sheets.png 295w,
+/static/9ae0aef1c92d8c43ed008d64345b5e03/fcda8/planning-system-sheets.png 590w,
+/static/9ae0aef1c92d8c43ed008d64345b5e03/efc66/planning-system-sheets.png 885w,
+/static/9ae0aef1c92d8c43ed008d64345b5e03/c83ae/planning-system-sheets.png 1180w,
+/static/9ae0aef1c92d8c43ed008d64345b5e03/dca52/planning-system-sheets.png 1550w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;blockquote&gt;
 &lt;blockquote&gt;
@@ -385,38 +377,38 @@
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;In the meantime, it turned out, Joris had started turning it into a web app. After he used that for a couple of months, he finally showed it to me (after I had been duplicating and clearing my spreadsheet every week, thanks Joris). We thought it had potential, at least for us, so we worked together to make a new version and we named it &lt;a href=&quot;https://essentialcal.com&quot;&gt;Essential&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/660198b774db9b3aa8aac60fce83dfc0/75ec9/planning-system-essential.png&quot;
+    href=&quot;/static/660198b774db9b3aa8aac60fce83dfc0/e8950/planning-system-essential.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 53.6%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsSAAALEgHS3X78AAAAwElEQVQoz5WRaxKDIBCDORJSwOID9f6X6lfi7DilnbH5gWHdZAO4fd9zziGEx22klEoprG6aphjjsiyx4TgOqpB5nnGEr+sKYYAqECRyceM48qm1IqBVLnRA2EIkFpfYkjpaYRJYKraYasIwDKyh4UrOyVfls0F6mQLqPXmLOYlOqB+1gfvAQmnlnhpUAaeYPssm4r1XBE2ASN+/iJONmZHfuEGyL7G1t9vfto17tiEKbGk/Y4vpwf6F60uhwy/xC/Hkh09BIbSNAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 53.37837837837838%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsSAAALEgHS3X78AAAAwElEQVQoz5WRaxKDIBCDORJSwOID9f6X6lfi7DilnbH5gWHdZAO4fd9zziGEx22klEoprG6aphjjsiyx4TgOqpB5nnGEr+sKYYAqECRyceM48qm1IqBVLnRA2EIkFpfYkjpaYRJYKraYasIwDKyh4UrOyVfls0F6mQLqPXmLOYlOqB+1gfvAQmnlnhpUAaeYPssm4r1XBE2ASN+/iJONmZHfuEGyL7G1t9vfto17tiEKbGk/Y4vpwf6F60uhwy/xC/Hkh09BIbSNAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Planning system Essential.&quot;
-        title=&quot;&quot;
-        src=&quot;/static/660198b774db9b3aa8aac60fce83dfc0/fb8a0/planning-system-essential.png&quot;
-        srcset=&quot;/static/660198b774db9b3aa8aac60fce83dfc0/1a291/planning-system-essential.png 148w,
-/static/660198b774db9b3aa8aac60fce83dfc0/2bc4a/planning-system-essential.png 295w,
-/static/660198b774db9b3aa8aac60fce83dfc0/fb8a0/planning-system-essential.png 590w,
-/static/660198b774db9b3aa8aac60fce83dfc0/526de/planning-system-essential.png 885w,
-/static/660198b774db9b3aa8aac60fce83dfc0/fa2eb/planning-system-essential.png 1180w,
-/static/660198b774db9b3aa8aac60fce83dfc0/08f6a/planning-system-essential.png 1770w,
-/static/660198b774db9b3aa8aac60fce83dfc0/75ec9/planning-system-essential.png 2000w&quot;
+        title=&quot;Planning system Essential.&quot;
+        src=&quot;/static/660198b774db9b3aa8aac60fce83dfc0/fcda8/planning-system-essential.png&quot;
+        srcset=&quot;/static/660198b774db9b3aa8aac60fce83dfc0/12f09/planning-system-essential.png 148w,
+/static/660198b774db9b3aa8aac60fce83dfc0/e4a3f/planning-system-essential.png 295w,
+/static/660198b774db9b3aa8aac60fce83dfc0/fcda8/planning-system-essential.png 590w,
+/static/660198b774db9b3aa8aac60fce83dfc0/efc66/planning-system-essential.png 885w,
+/static/660198b774db9b3aa8aac60fce83dfc0/c83ae/planning-system-essential.png 1180w,
+/static/660198b774db9b3aa8aac60fce83dfc0/e8950/planning-system-essential.png 2000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;blockquote&gt;
 &lt;blockquote&gt;
