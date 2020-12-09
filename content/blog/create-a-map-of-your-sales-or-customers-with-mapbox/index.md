@@ -119,7 +119,7 @@ To use the Dataset in the Styles editor, it needs to be converted to a Tileset. 
 
 ## 6. Add your data to a map
 
-This is the fun part! We can finally design and create the map. Go to [Styles](https://www.mapbox.com/studio/) and create a new Style. You can start with the Basic style, use a template or upload a style yourself. I chose Light as it matches the design of [checkoutpage.co](checkoutpage.co), where I will use the map.
+This is the fun part! We can finally design and create the map. Go to [Styles](https://www.mapbox.com/studio/) and create a new Style. You can start with the Basic style, use a template or upload a style yourself. I chose Light as it matches the design of [checkoutpage.co](https://checkoutpage.co), where I will use the map.
 
 Now press the `Add layer` button and add your dataset to the list of active sources. You should now see your data appear on the map. Nice!
 
