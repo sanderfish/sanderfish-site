@@ -3,7 +3,7 @@ title: Laughing at your foolishness
 date: '2021-06-01T23:30:32.169Z'
 ---
 
-We laugh at other peoples foolishness. At their little failures, accidents and annoyances. We laugh when they trip, drop something or bump into something. And when we laugh at them, we don't do it intent to discredit them. We really just find it funny that they do something by accident. That their body and mind do something different than they expected it to do.
+We laugh at other people's foolishness. At their little failures, accidents and annoyances. We laugh when they trip, drop something or bump into something. And when we laugh at them, we don't do it intent to discredit them. We really just find it funny that they do something by accident. That their body and mind do something different than they expected it to do.
 
 But oh does all hell breaks loose when this happens to us.
 
