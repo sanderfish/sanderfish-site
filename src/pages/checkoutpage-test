@@ -1,0 +1,8 @@
+<script type="text/javascript" src="https://checkoutpage.co/js/overlay.js" defer></script>
+
+
+<h1>Embed</h1>
+<div class="cp-checkout" data-checkout="https://checkoutpage.co/c/checkoutpage/upsell" style="width: 100%; max-width: 480px;"></div>
+
+<h1>Pop-up</h1>
+<a href="https://checkoutpage.co/c/checkoutpage/upsell" class="cp-button">Buy now</a>
