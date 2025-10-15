@@ -39,7 +39,7 @@ const IndexPage = ({ data, location }) => {
         <ul className="w-80">
           <li className="pv2">
             <div className="pv1">
-              <a href="https://checkoutpage.co" target="blank">
+              <a href="https://checkoutpage.com" target="blank">
                 Checkout Page
               </a>
             </div>
